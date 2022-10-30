@@ -1,0 +1,4682 @@
+{
+
+"data":[
+ 
+ {
+  "date": "Jun 05, 2000",
+  "price": 1.759
+ },
+ {
+  "date": "Jun 12, 2000",
+  "price": 1.766
+ },
+ {
+  "date": "Jun 19, 2000",
+  "price": 1.769
+ },
+ {
+  "date": "Jun 26, 2000",
+  "price": 1.785
+ },
+ {
+  "date": "Jul 03, 2000",
+  "price": 1.836
+ },
+ {
+  "date": "Jul 10, 2000",
+  "price": 1.861
+ },
+ {
+  "date": "Jul 17, 2000",
+  "price": 1.865
+ },
+ {
+  "date": "Jul 24, 2000",
+  "price": 1.866
+ },
+ {
+  "date": "Jul 31, 2000",
+  "price": 1.852
+ },
+ {
+  "date": "Aug 07, 2000",
+  "price": 1.843
+ },
+ {
+  "date": "Aug 14, 2000",
+  "price": 1.836
+ },
+ {
+  "date": "Aug 21, 2000",
+  "price": 1.856
+ },
+ {
+  "date": "Aug 28, 2000",
+  "price": 1.88
+ },
+ {
+  "date": "Sep 04, 2000",
+  "price": 1.928
+ },
+ {
+  "date": "Sep 11, 2000",
+  "price": 1.972
+ },
+ {
+  "date": "Sep 18, 2000",
+  "price": 1.966
+ },
+ {
+  "date": "Sep 25, 2000",
+  "price": 1.963
+ },
+ {
+  "date": "Oct 02, 2000",
+  "price": 1.952
+ },
+ {
+  "date": "Oct 09, 2000",
+  "price": 1.956
+ },
+ {
+  "date": "Oct 16, 2000",
+  "price": 1.951
+ },
+ {
+  "date": "Oct 23, 2000",
+  "price": 1.945
+ },
+ {
+  "date": "Oct 30, 2000",
+  "price": 1.942
+ },
+ {
+  "date": "Nov 06, 2000",
+  "price": 1.938
+ },
+ {
+  "date": "Nov 13, 2000",
+  "price": 1.929
+ },
+ {
+  "date": "Nov 20, 2000",
+  "price": 1.911
+ },
+ {
+  "date": "Nov 27, 2000",
+  "price": 1.902
+ },
+ {
+  "date": "Dec 04, 2000",
+  "price": 1.884
+ },
+ {
+  "date": "Dec 11, 2000",
+  "price": 1.86
+ },
+ {
+  "date": "Dec 18, 2000",
+  "price": 1.837
+ },
+ {
+  "date": "Dec 25, 2000",
+  "price": 1.805
+ },
+ {
+  "date": "Jan 01, 2001",
+  "price": 1.791
+ },
+ {
+  "date": "Jan 08, 2001",
+  "price": 1.774
+ },
+ {
+  "date": "Jan 15, 2001",
+  "price": 1.743
+ },
+ {
+  "date": "Jan 22, 2001",
+  "price": 1.734
+ },
+ {
+  "date": "Jan 29, 2001",
+  "price": 1.723
+ },
+ {
+  "date": "Feb 05, 2001",
+  "price": 1.718
+ },
+ {
+  "date": "Feb 12, 2001",
+  "price": 1.748
+ },
+ {
+  "date": "Feb 19, 2001",
+  "price": 1.763
+ },
+ {
+  "date": "Feb 26, 2001",
+  "price": 1.767
+ },
+ {
+  "date": "Mar 05, 2001",
+  "price": 1.796
+ },
+ {
+  "date": "Mar 12, 2001",
+  "price": 1.803
+ },
+ {
+  "date": "Mar 19, 2001",
+  "price": 1.813
+ },
+ {
+  "date": "Mar 26, 2001",
+  "price": 1.81
+ },
+ {
+  "date": "Apr 02, 2001",
+  "price": 1.844
+ },
+ {
+  "date": "Apr 09, 2001",
+  "price": 1.901
+ },
+ {
+  "date": "Apr 16, 2001",
+  "price": 1.954
+ },
+ {
+  "date": "Apr 23, 2001",
+  "price": 1.96
+ },
+ {
+  "date": "Apr 30, 2001",
+  "price": 2
+ },
+ {
+  "date": "May 07, 2001",
+  "price": 2.018
+ },
+ {
+  "date": "May 14, 2001",
+  "price": 1.976
+ },
+ {
+  "date": "May 21, 2001",
+  "price": 2.023
+ },
+ {
+  "date": "May 28, 2001",
+  "price": 2.041
+ },
+ {
+  "date": "Jun 04, 2001",
+  "price": 2.03
+ },
+ {
+  "date": "Jun 11, 2001",
+  "price": 2.031
+ },
+ {
+  "date": "Jun 18, 2001",
+  "price": 2.01
+ },
+ {
+  "date": "Jun 25, 2001",
+  "price": 1.982
+ },
+ {
+  "date": "Jul 02, 2001",
+  "price": 1.946
+ },
+ {
+  "date": "Jul 09, 2001",
+  "price": 1.926
+ },
+ {
+  "date": "Jul 16, 2001",
+  "price": 1.891
+ },
+ {
+  "date": "Jul 23, 2001",
+  "price": 1.843
+ },
+ {
+  "date": "Jul 30, 2001",
+  "price": 1.79
+ },
+ {
+  "date": "Aug 06, 2001",
+  "price": 1.748
+ },
+ {
+  "date": "Aug 13, 2001",
+  "price": 1.679
+ },
+ {
+  "date": "Aug 20, 2001",
+  "price": 1.659
+ },
+ {
+  "date": "Aug 27, 2001",
+  "price": 1.675
+ },
+ {
+  "date": "Sep 03, 2001",
+  "price": 1.817
+ },
+ {
+  "date": "Sep 10, 2001",
+  "price": 1.842
+ },
+ {
+  "date": "Sep 17, 2001",
+  "price": 1.831
+ },
+ {
+  "date": "Sep 24, 2001",
+  "price": 1.817
+ },
+ {
+  "date": "Oct 01, 2001",
+  "price": 1.795
+ },
+ {
+  "date": "Oct 08, 2001",
+  "price": 1.765
+ },
+ {
+  "date": "Oct 15, 2001",
+  "price": 1.738
+ },
+ {
+  "date": "Oct 22, 2001",
+  "price": 1.699
+ },
+ {
+  "date": "Oct 29, 2001",
+  "price": 1.683
+ },
+ {
+  "date": "Nov 05, 2001",
+  "price": 1.647
+ },
+ {
+  "date": "Nov 12, 2001",
+  "price": 1.609
+ },
+ {
+  "date": "Nov 19, 2001",
+  "price": 1.574
+ },
+ {
+  "date": "Nov 26, 2001",
+  "price": 1.526
+ },
+ {
+  "date": "Dec 03, 2001",
+  "price": 1.466
+ },
+ {
+  "date": "Dec 10, 2001",
+  "price": 1.417
+ },
+ {
+  "date": "Dec 17, 2001",
+  "price": 1.35
+ },
+ {
+  "date": "Dec 24, 2001",
+  "price": 1.296
+ },
+ {
+  "date": "Dec 31, 2001",
+  "price": 1.275
+ },
+ {
+  "date": "Jan 07, 2002",
+  "price": 1.277
+ },
+ {
+  "date": "Jan 14, 2002",
+  "price": 1.298
+ },
+ {
+  "date": "Jan 21, 2002",
+  "price": 1.276
+ },
+ {
+  "date": "Jan 28, 2002",
+  "price": 1.265
+ },
+ {
+  "date": "Feb 04, 2002",
+  "price": 1.245
+ },
+ {
+  "date": "Feb 11, 2002",
+  "price": 1.237
+ },
+ {
+  "date": "Feb 18, 2002",
+  "price": 1.273
+ },
+ {
+  "date": "Feb 25, 2002",
+  "price": 1.306
+ },
+ {
+  "date": "Mar 04, 2002",
+  "price": 1.343
+ },
+ {
+  "date": "Mar 11, 2002",
+  "price": 1.44
+ },
+ {
+  "date": "Mar 18, 2002",
+  "price": 1.506
+ },
+ {
+  "date": "Mar 25, 2002",
+  "price": 1.574
+ },
+ {
+  "date": "Apr 01, 2002",
+  "price": 1.632
+ },
+ {
+  "date": "Apr 08, 2002",
+  "price": 1.673
+ },
+ {
+  "date": "Apr 15, 2002",
+  "price": 1.668
+ },
+ {
+  "date": "Apr 22, 2002",
+  "price": 1.668
+ },
+ {
+  "date": "Apr 29, 2002",
+  "price": 1.66
+ },
+ {
+  "date": "May 06, 2002",
+  "price": 1.646
+ },
+ {
+  "date": "May 13, 2002",
+  "price": 1.622
+ },
+ {
+  "date": "May 20, 2002",
+  "price": 1.611
+ },
+ {
+  "date": "May 27, 2002",
+  "price": 1.62
+ },
+ {
+  "date": "Jun 03, 2002",
+  "price": 1.633
+ },
+ {
+  "date": "Jun 10, 2002",
+  "price": 1.633
+ },
+ {
+  "date": "Jun 17, 2002",
+  "price": 1.655
+ },
+ {
+  "date": "Jun 24, 2002",
+  "price": 1.688
+ },
+ {
+  "date": "Jul 01, 2002",
+  "price": 1.687
+ },
+ {
+  "date": "Jul 08, 2002",
+  "price": 1.681
+ },
+ {
+  "date": "Jul 15, 2002",
+  "price": 1.679
+ },
+ {
+  "date": "Jul 22, 2002",
+  "price": 1.669
+ },
+ {
+  "date": "Jul 29, 2002",
+  "price": 1.659
+ },
+ {
+  "date": "Aug 05, 2002",
+  "price": 1.677
+ },
+ {
+  "date": "Aug 12, 2002",
+  "price": 1.664
+ },
+ {
+  "date": "Aug 19, 2002",
+  "price": 1.659
+ },
+ {
+  "date": "Aug 26, 2002",
+  "price": 1.656
+ },
+ {
+  "date": "Sep 02, 2002",
+  "price": 1.651
+ },
+ {
+  "date": "Sep 09, 2002",
+  "price": 1.646
+ },
+ {
+  "date": "Sep 16, 2002",
+  "price": 1.638
+ },
+ {
+  "date": "Sep 23, 2002",
+  "price": 1.621
+ },
+ {
+  "date": "Sep 30, 2002",
+  "price": 1.617
+ },
+ {
+  "date": "Oct 07, 2002",
+  "price": 1.612
+ },
+ {
+  "date": "Oct 14, 2002",
+  "price": 1.578
+ },
+ {
+  "date": "Oct 21, 2002",
+  "price": 1.587
+ },
+ {
+  "date": "Oct 28, 2002",
+  "price": 1.589
+ },
+ {
+  "date": "Nov 04, 2002",
+  "price": 1.648
+ },
+ {
+  "date": "Nov 11, 2002",
+  "price": 1.682
+ },
+ {
+  "date": "Nov 18, 2002",
+  "price": 1.681
+ },
+ {
+  "date": "Nov 25, 2002",
+  "price": 1.664
+ },
+ {
+  "date": "Dec 02, 2002",
+  "price": 1.657
+ },
+ {
+  "date": "Dec 09, 2002",
+  "price": 1.646
+ },
+ {
+  "date": "Dec 16, 2002",
+  "price": 1.636
+ },
+ {
+  "date": "Dec 23, 2002",
+  "price": 1.633
+ },
+ {
+  "date": "Dec 30, 2002",
+  "price": 1.651
+ },
+ {
+  "date": "Jan 06, 2003",
+  "price": 1.687
+ },
+ {
+  "date": "Jan 13, 2003",
+  "price": 1.719
+ },
+ {
+  "date": "Jan 20, 2003",
+  "price": 1.762
+ },
+ {
+  "date": "Jan 27, 2003",
+  "price": 1.765
+ },
+ {
+  "date": "Feb 03, 2003",
+  "price": 1.802
+ },
+ {
+  "date": "Feb 10, 2003",
+  "price": 1.844
+ },
+ {
+  "date": "Feb 17, 2003",
+  "price": 1.963
+ },
+ {
+  "date": "Feb 24, 2003",
+  "price": 2.011
+ },
+ {
+  "date": "Mar 03, 2003",
+  "price": 2.088
+ },
+ {
+  "date": "Mar 10, 2003",
+  "price": 2.15
+ },
+ {
+  "date": "Mar 17, 2003",
+  "price": 2.19
+ },
+ {
+  "date": "Mar 24, 2003",
+  "price": 2.175
+ },
+ {
+  "date": "Mar 31, 2003",
+  "price": 2.165
+ },
+ {
+  "date": "Apr 07, 2003",
+  "price": 2.146
+ },
+ {
+  "date": "Apr 14, 2003",
+  "price": 2.104
+ },
+ {
+  "date": "Apr 21, 2003",
+  "price": 2.062
+ },
+ {
+  "date": "Apr 28, 2003",
+  "price": 2.03
+ },
+ {
+  "date": "May 05, 2003",
+  "price": 1.986
+ },
+ {
+  "date": "May 12, 2003",
+  "price": 1.925
+ },
+ {
+  "date": "May 19, 2003",
+  "price": 1.887
+ },
+ {
+  "date": "May 26, 2003",
+  "price": 1.836
+ },
+ {
+  "date": "Jun 02, 2003",
+  "price": 1.803
+ },
+ {
+  "date": "Jun 09, 2003",
+  "price": 1.771
+ },
+ {
+  "date": "Jun 16, 2003",
+  "price": 1.869
+ },
+ {
+  "date": "Jun 23, 2003",
+  "price": 1.904
+ },
+ {
+  "date": "Jun 30, 2003",
+  "price": 1.913
+ },
+ {
+  "date": "Jul 07, 2003",
+  "price": 1.907
+ },
+ {
+  "date": "Jul 14, 2003",
+  "price": 1.873
+ },
+ {
+  "date": "Jul 21, 2003",
+  "price": 1.839
+ },
+ {
+  "date": "Jul 28, 2003",
+  "price": 1.801
+ },
+ {
+  "date": "Aug 04, 2003",
+  "price": 1.787
+ },
+ {
+  "date": "Aug 11, 2003",
+  "price": 1.827
+ },
+ {
+  "date": "Aug 18, 2003",
+  "price": 2.007
+ },
+ {
+  "date": "Aug 25, 2003",
+  "price": 2.157
+ },
+ {
+  "date": "Sep 01, 2003",
+  "price": 2.149
+ },
+ {
+  "date": "Sep 08, 2003",
+  "price": 2.138
+ },
+ {
+  "date": "Sep 15, 2003",
+  "price": 2.11
+ },
+ {
+  "date": "Sep 22, 2003",
+  "price": 2.047
+ },
+ {
+  "date": "Sep 29, 2003",
+  "price": 1.957
+ },
+ {
+  "date": "Oct 06, 2003",
+  "price": 1.917
+ },
+ {
+  "date": "Oct 13, 2003",
+  "price": 1.879
+ },
+ {
+  "date": "Oct 20, 2003",
+  "price": 1.826
+ },
+ {
+  "date": "Oct 27, 2003",
+  "price": 1.795
+ },
+ {
+  "date": "Nov 03, 2003",
+  "price": 1.76
+ },
+ {
+  "date": "Nov 10, 2003",
+  "price": 1.744
+ },
+ {
+  "date": "Nov 17, 2003",
+  "price": 1.714
+ },
+ {
+  "date": "Nov 24, 2003",
+  "price": 1.7
+ },
+ {
+  "date": "Dec 01, 2003",
+  "price": 1.683
+ },
+ {
+  "date": "Dec 08, 2003",
+  "price": 1.671
+ },
+ {
+  "date": "Dec 15, 2003",
+  "price": 1.636
+ },
+ {
+  "date": "Dec 22, 2003",
+  "price": 1.62
+ },
+ {
+  "date": "Dec 29, 2003",
+  "price": 1.616
+ },
+ {
+  "date": "Jan 05, 2004",
+  "price": 1.644
+ },
+ {
+  "date": "Jan 12, 2004",
+  "price": 1.684
+ },
+ {
+  "date": "Jan 19, 2004",
+  "price": 1.714
+ },
+ {
+  "date": "Jan 26, 2004",
+  "price": 1.763
+ },
+ {
+  "date": "Feb 02, 2004",
+  "price": 1.765
+ },
+ {
+  "date": "Feb 09, 2004",
+  "price": 1.841
+ },
+ {
+  "date": "Feb 16, 2004",
+  "price": 1.874
+ },
+ {
+  "date": "Feb 23, 2004",
+  "price": 2.064
+ },
+ {
+  "date": "Mar 01, 2004",
+  "price": 2.155
+ },
+ {
+  "date": "Mar 08, 2004",
+  "price": 2.154
+ },
+ {
+  "date": "Mar 15, 2004",
+  "price": 2.138
+ },
+ {
+  "date": "Mar 22, 2004",
+  "price": 2.125
+ },
+ {
+  "date": "Mar 29, 2004",
+  "price": 2.108
+ },
+ {
+  "date": "Apr 05, 2004",
+  "price": 2.142
+ },
+ {
+  "date": "Apr 12, 2004",
+  "price": 2.176
+ },
+ {
+  "date": "Apr 19, 2004",
+  "price": 2.147
+ },
+ {
+  "date": "Apr 26, 2004",
+  "price": 2.133
+ },
+ {
+  "date": "May 03, 2004",
+  "price": 2.126
+ },
+ {
+  "date": "May 10, 2004",
+  "price": 2.237
+ },
+ {
+  "date": "May 17, 2004",
+  "price": 2.295
+ },
+ {
+  "date": "May 24, 2004",
+  "price": 2.355
+ },
+ {
+  "date": "May 31, 2004",
+  "price": 2.349
+ },
+ {
+  "date": "Jun 07, 2004",
+  "price": 2.348
+ },
+ {
+  "date": "Jun 14, 2004",
+  "price": 2.328
+ },
+ {
+  "date": "Jun 21, 2004",
+  "price": 2.286
+ },
+ {
+  "date": "Jun 28, 2004",
+  "price": 2.27
+ },
+ {
+  "date": "Jul 05, 2004",
+  "price": 2.24
+ },
+ {
+  "date": "Jul 12, 2004",
+  "price": 2.22
+ },
+ {
+  "date": "Jul 19, 2004",
+  "price": 2.197
+ },
+ {
+  "date": "Jul 26, 2004",
+  "price": 2.172
+ },
+ {
+  "date": "Aug 02, 2004",
+  "price": 2.161
+ },
+ {
+  "date": "Aug 09, 2004",
+  "price": 2.113
+ },
+ {
+  "date": "Aug 16, 2004",
+  "price": 2.082
+ },
+ {
+  "date": "Aug 23, 2004",
+  "price": 2.057
+ },
+ {
+  "date": "Aug 30, 2004",
+  "price": 2.129
+ },
+ {
+  "date": "Sep 06, 2004",
+  "price": 2.105
+ },
+ {
+  "date": "Sep 13, 2004",
+  "price": 2.087
+ },
+ {
+  "date": "Sep 20, 2004",
+  "price": 2.085
+ },
+ {
+  "date": "Sep 27, 2004",
+  "price": 2.109
+ },
+ {
+  "date": "Oct 04, 2004",
+  "price": 2.224
+ },
+ {
+  "date": "Oct 11, 2004",
+  "price": 2.371
+ },
+ {
+  "date": "Oct 18, 2004",
+  "price": 2.434
+ },
+ {
+  "date": "Oct 25, 2004",
+  "price": 2.425
+ },
+ {
+  "date": "Nov 01, 2004",
+  "price": 2.4
+ },
+ {
+  "date": "Nov 08, 2004",
+  "price": 2.385
+ },
+ {
+  "date": "Nov 15, 2004",
+  "price": 2.361
+ },
+ {
+  "date": "Nov 22, 2004",
+  "price": 2.32
+ },
+ {
+  "date": "Nov 29, 2004",
+  "price": 2.296
+ },
+ {
+  "date": "Dec 06, 2004",
+  "price": 2.241
+ },
+ {
+  "date": "Dec 13, 2004",
+  "price": 2.164
+ },
+ {
+  "date": "Dec 20, 2004",
+  "price": 2.071
+ },
+ {
+  "date": "Dec 27, 2004",
+  "price": 2.015
+ },
+ {
+  "date": "Jan 03, 2005",
+  "price": 1.965
+ },
+ {
+  "date": "Jan 10, 2005",
+  "price": 1.92
+ },
+ {
+  "date": "Jan 17, 2005",
+  "price": 1.894
+ },
+ {
+  "date": "Jan 24, 2005",
+  "price": 1.92
+ },
+ {
+  "date": "Jan 31, 2005",
+  "price": 1.95
+ },
+ {
+  "date": "Feb 07, 2005",
+  "price": 1.959
+ },
+ {
+  "date": "Feb 14, 2005",
+  "price": 2.03
+ },
+ {
+  "date": "Feb 21, 2005",
+  "price": 2.107
+ },
+ {
+  "date": "Feb 28, 2005",
+  "price": 2.139
+ },
+ {
+  "date": "Mar 07, 2005",
+  "price": 2.184
+ },
+ {
+  "date": "Mar 14, 2005",
+  "price": 2.25
+ },
+ {
+  "date": "Mar 21, 2005",
+  "price": 2.306
+ },
+ {
+  "date": "Mar 28, 2005",
+  "price": 2.389
+ },
+ {
+  "date": "Apr 04, 2005",
+  "price": 2.495
+ },
+ {
+  "date": "Apr 11, 2005",
+  "price": 2.634
+ },
+ {
+  "date": "Apr 18, 2005",
+  "price": 2.657
+ },
+ {
+  "date": "Apr 25, 2005",
+  "price": 2.649
+ },
+ {
+  "date": "May 02, 2005",
+  "price": 2.629
+ },
+ {
+  "date": "May 09, 2005",
+  "price": 2.598
+ },
+ {
+  "date": "May 16, 2005",
+  "price": 2.564
+ },
+ {
+  "date": "May 23, 2005",
+  "price": 2.506
+ },
+ {
+  "date": "May 30, 2005",
+  "price": 2.433
+ },
+ {
+  "date": "Jun 06, 2005",
+  "price": 2.389
+ },
+ {
+  "date": "Jun 13, 2005",
+  "price": 2.357
+ },
+ {
+  "date": "Jun 20, 2005",
+  "price": 2.365
+ },
+ {
+  "date": "Jun 27, 2005",
+  "price": 2.449
+ },
+ {
+  "date": "Jul 04, 2005",
+  "price": 2.519
+ },
+ {
+  "date": "Jul 11, 2005",
+  "price": 2.575
+ },
+ {
+  "date": "Jul 18, 2005",
+  "price": 2.598
+ },
+ {
+  "date": "Jul 25, 2005",
+  "price": 2.578
+ },
+ {
+  "date": "Aug 01, 2005",
+  "price": 2.583
+ },
+ {
+  "date": "Aug 08, 2005",
+  "price": 2.639
+ },
+ {
+  "date": "Aug 15, 2005",
+  "price": 2.762
+ },
+ {
+  "date": "Aug 22, 2005",
+  "price": 2.786
+ },
+ {
+  "date": "Aug 29, 2005",
+  "price": 2.808
+ },
+ {
+  "date": "Sep 05, 2005",
+  "price": 3.039
+ },
+ {
+  "date": "Sep 12, 2005",
+  "price": 3.032
+ },
+ {
+  "date": "Sep 19, 2005",
+  "price": 2.994
+ },
+ {
+  "date": "Sep 26, 2005",
+  "price": 2.982
+ },
+ {
+  "date": "Oct 03, 2005",
+  "price": 3
+ },
+ {
+  "date": "Oct 10, 2005",
+  "price": 3.021
+ },
+ {
+  "date": "Oct 17, 2005",
+  "price": 2.95
+ },
+ {
+  "date": "Oct 24, 2005",
+  "price": 2.861
+ },
+ {
+  "date": "Oct 31, 2005",
+  "price": 2.738
+ },
+ {
+  "date": "Nov 07, 2005",
+  "price": 2.632
+ },
+ {
+  "date": "Nov 14, 2005",
+  "price": 2.55
+ },
+ {
+  "date": "Nov 21, 2005",
+  "price": 2.43
+ },
+ {
+  "date": "Nov 28, 2005",
+  "price": 2.369
+ },
+ {
+  "date": "Dec 05, 2005",
+  "price": 2.271
+ },
+ {
+  "date": "Dec 12, 2005",
+  "price": 2.21
+ },
+ {
+  "date": "Dec 19, 2005",
+  "price": 2.171
+ },
+ {
+  "date": "Dec 26, 2005",
+  "price": 2.161
+ },
+ {
+  "date": "Jan 02, 2006",
+  "price": 2.167
+ },
+ {
+  "date": "Jan 09, 2006",
+  "price": 2.285
+ },
+ {
+  "date": "Jan 16, 2006",
+  "price": 2.392
+ },
+ {
+  "date": "Jan 23, 2006",
+  "price": 2.395
+ },
+ {
+  "date": "Jan 30, 2006",
+  "price": 2.514
+ },
+ {
+  "date": "Feb 06, 2006",
+  "price": 2.544
+ },
+ {
+  "date": "Feb 13, 2006",
+  "price": 2.509
+ },
+ {
+  "date": "Feb 20, 2006",
+  "price": 2.438
+ },
+ {
+  "date": "Feb 27, 2006",
+  "price": 2.388
+ },
+ {
+  "date": "Mar 06, 2006",
+  "price": 2.443
+ },
+ {
+  "date": "Mar 13, 2006",
+  "price": 2.517
+ },
+ {
+  "date": "Mar 20, 2006",
+  "price": 2.611
+ },
+ {
+  "date": "Mar 27, 2006",
+  "price": 2.645
+ },
+ {
+  "date": "Apr 03, 2006",
+  "price": 2.758
+ },
+ {
+  "date": "Apr 10, 2006",
+  "price": 2.805
+ },
+ {
+  "date": "Apr 17, 2006",
+  "price": 2.899
+ },
+ {
+  "date": "Apr 24, 2006",
+  "price": 3.1
+ },
+ {
+  "date": "May 01, 2006",
+  "price": 3.226
+ },
+ {
+  "date": "May 08, 2006",
+  "price": 3.334
+ },
+ {
+  "date": "May 15, 2006",
+  "price": 3.332
+ },
+ {
+  "date": "May 22, 2006",
+  "price": 3.321
+ },
+ {
+  "date": "May 29, 2006",
+  "price": 3.289
+ },
+ {
+  "date": "Jun 05, 2006",
+  "price": 3.251
+ },
+ {
+  "date": "Jun 12, 2006",
+  "price": 3.217
+ },
+ {
+  "date": "Jun 19, 2006",
+  "price": 3.178
+ },
+ {
+  "date": "Jun 26, 2006",
+  "price": 3.122
+ },
+ {
+  "date": "Jul 03, 2006",
+  "price": 3.16
+ },
+ {
+  "date": "Jul 10, 2006",
+  "price": 3.206
+ },
+ {
+  "date": "Jul 17, 2006",
+  "price": 3.198
+ },
+ {
+  "date": "Jul 24, 2006",
+  "price": 3.173
+ },
+ {
+  "date": "Jul 31, 2006",
+  "price": 3.15
+ },
+ {
+  "date": "Aug 07, 2006",
+  "price": 3.133
+ },
+ {
+  "date": "Aug 14, 2006",
+  "price": 3.162
+ },
+ {
+  "date": "Aug 21, 2006",
+  "price": 3.122
+ },
+ {
+  "date": "Aug 28, 2006",
+  "price": 3.048
+ },
+ {
+  "date": "Sep 04, 2006",
+  "price": 2.985
+ },
+ {
+  "date": "Sep 11, 2006",
+  "price": 2.9
+ },
+ {
+  "date": "Sep 18, 2006",
+  "price": 2.822
+ },
+ {
+  "date": "Sep 25, 2006",
+  "price": 2.728
+ },
+ {
+  "date": "Oct 02, 2006",
+  "price": 2.669
+ },
+ {
+  "date": "Oct 09, 2006",
+  "price": 2.587
+ },
+ {
+  "date": "Oct 16, 2006",
+  "price": 2.514
+ },
+ {
+  "date": "Oct 23, 2006",
+  "price": 2.449
+ },
+ {
+  "date": "Oct 30, 2006",
+  "price": 2.407
+ },
+ {
+  "date": "Nov 06, 2006",
+  "price": 2.382
+ },
+ {
+  "date": "Nov 13, 2006",
+  "price": 2.469
+ },
+ {
+  "date": "Nov 20, 2006",
+  "price": 2.49
+ },
+ {
+  "date": "Nov 27, 2006",
+  "price": 2.492
+ },
+ {
+  "date": "Dec 04, 2006",
+  "price": 2.496
+ },
+ {
+  "date": "Dec 11, 2006",
+  "price": 2.494
+ },
+ {
+  "date": "Dec 18, 2006",
+  "price": 2.577
+ },
+ {
+  "date": "Dec 25, 2006",
+  "price": 2.66
+ },
+ {
+  "date": "Jan 01, 2007",
+  "price": 2.658
+ },
+ {
+  "date": "Jan 08, 2007",
+  "price": 2.695
+ },
+ {
+  "date": "Jan 15, 2007",
+  "price": 2.67
+ },
+ {
+  "date": "Jan 22, 2007",
+  "price": 2.637
+ },
+ {
+  "date": "Jan 29, 2007",
+  "price": 2.61
+ },
+ {
+  "date": "Feb 05, 2007",
+  "price": 2.662
+ },
+ {
+  "date": "Feb 12, 2007",
+  "price": 2.739
+ },
+ {
+  "date": "Feb 19, 2007",
+  "price": 2.807
+ },
+ {
+  "date": "Feb 26, 2007",
+  "price": 2.917
+ },
+ {
+  "date": "Mar 05, 2007",
+  "price": 2.998
+ },
+ {
+  "date": "Mar 12, 2007",
+  "price": 3.184
+ },
+ {
+  "date": "Mar 19, 2007",
+  "price": 3.225
+ },
+ {
+  "date": "Mar 26, 2007",
+  "price": 3.233
+ },
+ {
+  "date": "Apr 02, 2007",
+  "price": 3.32
+ },
+ {
+  "date": "Apr 09, 2007",
+  "price": 3.33
+ },
+ {
+  "date": "Apr 16, 2007",
+  "price": 3.381
+ },
+ {
+  "date": "Apr 23, 2007",
+  "price": 3.396
+ },
+ {
+  "date": "Apr 30, 2007",
+  "price": 3.462
+ },
+ {
+  "date": "May 07, 2007",
+  "price": 3.541
+ },
+ {
+  "date": "May 14, 2007",
+  "price": 3.532
+ },
+ {
+  "date": "May 21, 2007",
+  "price": 3.508
+ },
+ {
+  "date": "May 28, 2007",
+  "price": 3.506
+ },
+ {
+  "date": "Jun 04, 2007",
+  "price": 3.49
+ },
+ {
+  "date": "Jun 11, 2007",
+  "price": 3.423
+ },
+ {
+  "date": "Jun 18, 2007",
+  "price": 3.357
+ },
+ {
+  "date": "Jun 25, 2007",
+  "price": 3.309
+ },
+ {
+  "date": "Jul 02, 2007",
+  "price": 3.267
+ },
+ {
+  "date": "Jul 09, 2007",
+  "price": 3.241
+ },
+ {
+  "date": "Jul 16, 2007",
+  "price": 3.271
+ },
+ {
+  "date": "Jul 23, 2007",
+  "price": 3.234
+ },
+ {
+  "date": "Jul 30, 2007",
+  "price": 3.179
+ },
+ {
+  "date": "Aug 06, 2007",
+  "price": 3.139
+ },
+ {
+  "date": "Aug 13, 2007",
+  "price": 3.054
+ },
+ {
+  "date": "Aug 20, 2007",
+  "price": 2.964
+ },
+ {
+  "date": "Aug 27, 2007",
+  "price": 2.893
+ },
+ {
+  "date": "Sep 03, 2007",
+  "price": 2.876
+ },
+ {
+  "date": "Sep 10, 2007",
+  "price": 2.92
+ },
+ {
+  "date": "Sep 17, 2007",
+  "price": 2.957
+ },
+ {
+  "date": "Sep 24, 2007",
+  "price": 3.013
+ },
+ {
+  "date": "Oct 01, 2007",
+  "price": 3.018
+ },
+ {
+  "date": "Oct 08, 2007",
+  "price": 3.041
+ },
+ {
+  "date": "Oct 15, 2007",
+  "price": 3.113
+ },
+ {
+  "date": "Oct 22, 2007",
+  "price": 3.195
+ },
+ {
+  "date": "Oct 29, 2007",
+  "price": 3.244
+ },
+ {
+  "date": "Nov 05, 2007",
+  "price": 3.327
+ },
+ {
+  "date": "Nov 12, 2007",
+  "price": 3.47
+ },
+ {
+  "date": "Nov 19, 2007",
+  "price": 3.506
+ },
+ {
+  "date": "Nov 26, 2007",
+  "price": 3.496
+ },
+ {
+  "date": "Dec 03, 2007",
+  "price": 3.474
+ },
+ {
+  "date": "Dec 10, 2007",
+  "price": 3.436
+ },
+ {
+  "date": "Dec 17, 2007",
+  "price": 3.389
+ },
+ {
+  "date": "Dec 24, 2007",
+  "price": 3.364
+ },
+ {
+  "date": "Dec 31, 2007",
+  "price": 3.391
+ },
+ {
+  "date": "Jan 07, 2008",
+  "price": 3.427
+ },
+ {
+  "date": "Jan 14, 2008",
+  "price": 3.395
+ },
+ {
+  "date": "Jan 21, 2008",
+  "price": 3.326
+ },
+ {
+  "date": "Jan 28, 2008",
+  "price": 3.253
+ },
+ {
+  "date": "Feb 04, 2008",
+  "price": 3.223
+ },
+ {
+  "date": "Feb 11, 2008",
+  "price": 3.192
+ },
+ {
+  "date": "Feb 18, 2008",
+  "price": 3.298
+ },
+ {
+  "date": "Feb 25, 2008",
+  "price": 3.436
+ },
+ {
+  "date": "Mar 03, 2008",
+  "price": 3.531
+ },
+ {
+  "date": "Mar 10, 2008",
+  "price": 3.607
+ },
+ {
+  "date": "Mar 17, 2008",
+  "price": 3.663
+ },
+ {
+  "date": "Mar 24, 2008",
+  "price": 3.655
+ },
+ {
+  "date": "Mar 31, 2008",
+  "price": 3.645
+ },
+ {
+  "date": "Apr 07, 2008",
+  "price": 3.723
+ },
+ {
+  "date": "Apr 14, 2008",
+  "price": 3.818
+ },
+ {
+  "date": "Apr 21, 2008",
+  "price": 3.863
+ },
+ {
+  "date": "Apr 28, 2008",
+  "price": 3.915
+ },
+ {
+  "date": "May 05, 2008",
+  "price": 3.93
+ },
+ {
+  "date": "May 12, 2008",
+  "price": 3.947
+ },
+ {
+  "date": "May 19, 2008",
+  "price": 3.979
+ },
+ {
+  "date": "May 26, 2008",
+  "price": 4.103
+ },
+ {
+  "date": "Jun 02, 2008",
+  "price": 4.241
+ },
+ {
+  "date": "Jun 09, 2008",
+  "price": 4.415
+ },
+ {
+  "date": "Jun 16, 2008",
+  "price": 4.555
+ },
+ {
+  "date": "Jun 23, 2008",
+  "price": 4.562
+ },
+ {
+  "date": "Jun 30, 2008",
+  "price": 4.556
+ },
+ {
+  "date": "Jul 07, 2008",
+  "price": 4.552
+ },
+ {
+  "date": "Jul 14, 2008",
+  "price": 4.514
+ },
+ {
+  "date": "Jul 21, 2008",
+  "price": 4.457
+ },
+ {
+  "date": "Jul 28, 2008",
+  "price": 4.355
+ },
+ {
+  "date": "Aug 04, 2008",
+  "price": 4.261
+ },
+ {
+  "date": "Aug 11, 2008",
+  "price": 4.182
+ },
+ {
+  "date": "Aug 18, 2008",
+  "price": 4.109
+ },
+ {
+  "date": "Aug 25, 2008",
+  "price": 4.026
+ },
+ {
+  "date": "Sep 01, 2008",
+  "price": 3.969
+ },
+ {
+  "date": "Sep 08, 2008",
+  "price": 3.92
+ },
+ {
+  "date": "Sep 15, 2008",
+  "price": 3.887
+ },
+ {
+  "date": "Sep 22, 2008",
+  "price": 3.838
+ },
+ {
+  "date": "Sep 29, 2008",
+  "price": 3.772
+ },
+ {
+  "date": "Oct 06, 2008",
+  "price": 3.718
+ },
+ {
+  "date": "Oct 13, 2008",
+  "price": 3.6
+ },
+ {
+  "date": "Oct 20, 2008",
+  "price": 3.487
+ },
+ {
+  "date": "Oct 27, 2008",
+  "price": 3.272
+ },
+ {
+  "date": "Nov 03, 2008",
+  "price": 2.889
+ },
+ {
+  "date": "Nov 10, 2008",
+  "price": 2.524
+ },
+ {
+  "date": "Nov 17, 2008",
+  "price": 2.364
+ },
+ {
+  "date": "Nov 24, 2008",
+  "price": 2.159
+ },
+ {
+  "date": "Dec 01, 2008",
+  "price": 1.968
+ },
+ {
+  "date": "Dec 08, 2008",
+  "price": 1.835
+ },
+ {
+  "date": "Dec 15, 2008",
+  "price": 1.758
+ },
+ {
+  "date": "Dec 22, 2008",
+  "price": 1.819
+ },
+ {
+  "date": "Dec 29, 2008",
+  "price": 1.849
+ },
+ {
+  "date": "Jan 05, 2009",
+  "price": 1.913
+ },
+ {
+  "date": "Jan 12, 2009",
+  "price": 2.007
+ },
+ {
+  "date": "Jan 19, 2009",
+  "price": 2.056
+ },
+ {
+  "date": "Jan 26, 2009",
+  "price": 2.067
+ },
+ {
+  "date": "Feb 02, 2009",
+  "price": 2.098
+ },
+ {
+  "date": "Feb 09, 2009",
+  "price": 2.195
+ },
+ {
+  "date": "Feb 16, 2009",
+  "price": 2.276
+ },
+ {
+  "date": "Feb 23, 2009",
+  "price": 2.246
+ },
+ {
+  "date": "Mar 02, 2009",
+  "price": 2.177
+ },
+ {
+  "date": "Mar 09, 2009",
+  "price": 2.184
+ },
+ {
+  "date": "Mar 16, 2009",
+  "price": 2.14
+ },
+ {
+  "date": "Mar 23, 2009",
+  "price": 2.128
+ },
+ {
+  "date": "Mar 30, 2009",
+  "price": 2.218
+ },
+ {
+  "date": "Apr 06, 2009",
+  "price": 2.298
+ },
+ {
+  "date": "Apr 13, 2009",
+  "price": 2.306
+ },
+ {
+  "date": "Apr 20, 2009",
+  "price": 2.321
+ },
+ {
+  "date": "Apr 27, 2009",
+  "price": 2.336
+ },
+ {
+  "date": "May 04, 2009",
+  "price": 2.345
+ },
+ {
+  "date": "May 11, 2009",
+  "price": 2.414
+ },
+ {
+  "date": "May 18, 2009",
+  "price": 2.524
+ },
+ {
+  "date": "May 25, 2009",
+  "price": 2.647
+ },
+ {
+  "date": "Jun 01, 2009",
+  "price": 2.773
+ },
+ {
+  "date": "Jun 08, 2009",
+  "price": 2.904
+ },
+ {
+  "date": "Jun 15, 2009",
+  "price": 3.002
+ },
+ {
+  "date": "Jun 22, 2009",
+  "price": 3.015
+ },
+ {
+  "date": "Jun 29, 2009",
+  "price": 2.984
+ },
+ {
+  "date": "Jul 06, 2009",
+  "price": 2.974
+ },
+ {
+  "date": "Jul 13, 2009",
+  "price": 2.903
+ },
+ {
+  "date": "Jul 20, 2009",
+  "price": 2.87
+ },
+ {
+  "date": "Jul 27, 2009",
+  "price": 2.863
+ },
+ {
+  "date": "Aug 03, 2009",
+  "price": 2.942
+ },
+ {
+  "date": "Aug 10, 2009",
+  "price": 3.062
+ },
+ {
+  "date": "Aug 17, 2009",
+  "price": 3.066
+ },
+ {
+  "date": "Aug 24, 2009",
+  "price": 3.053
+ },
+ {
+  "date": "Aug 31, 2009",
+  "price": 3.072
+ },
+ {
+  "date": "Sep 07, 2009",
+  "price": 3.131
+ },
+ {
+  "date": "Sep 14, 2009",
+  "price": 3.195
+ },
+ {
+  "date": "Sep 21, 2009",
+  "price": 3.178
+ },
+ {
+  "date": "Sep 28, 2009",
+  "price": 3.13
+ },
+ {
+  "date": "Oct 05, 2009",
+  "price": 3.118
+ },
+ {
+  "date": "Oct 12, 2009",
+  "price": 3.063
+ },
+ {
+  "date": "Oct 19, 2009",
+  "price": 3.05
+ },
+ {
+  "date": "Oct 26, 2009",
+  "price": 3.045
+ },
+ {
+  "date": "Nov 02, 2009",
+  "price": 3.036
+ },
+ {
+  "date": "Nov 09, 2009",
+  "price": 3.018
+ },
+ {
+  "date": "Nov 16, 2009",
+  "price": 2.981
+ },
+ {
+  "date": "Nov 23, 2009",
+  "price": 2.942
+ },
+ {
+  "date": "Nov 30, 2009",
+  "price": 2.926
+ },
+ {
+  "date": "Dec 07, 2009",
+  "price": 2.915
+ },
+ {
+  "date": "Dec 14, 2009",
+  "price": 2.911
+ },
+ {
+  "date": "Dec 21, 2009",
+  "price": 2.921
+ },
+ {
+  "date": "Dec 28, 2009",
+  "price": 2.92
+ },
+ {
+  "date": "Jan 04, 2010",
+  "price": 2.987
+ },
+ {
+  "date": "Jan 11, 2010",
+  "price": 3.054
+ },
+ {
+  "date": "Jan 18, 2010",
+  "price": 3.042
+ },
+ {
+  "date": "Jan 25, 2010",
+  "price": 3.027
+ },
+ {
+  "date": "Feb 01, 2010",
+  "price": 2.992
+ },
+ {
+  "date": "Feb 08, 2010",
+  "price": 2.951
+ },
+ {
+  "date": "Feb 15, 2010",
+  "price": 2.919
+ },
+ {
+  "date": "Feb 22, 2010",
+  "price": 2.924
+ },
+ {
+  "date": "Mar 01, 2010",
+  "price": 3.009
+ },
+ {
+  "date": "Mar 08, 2010",
+  "price": 3.071
+ },
+ {
+  "date": "Mar 15, 2010",
+  "price": 3.081
+ },
+ {
+  "date": "Mar 22, 2010",
+  "price": 3.092
+ },
+ {
+  "date": "Mar 29, 2010",
+  "price": 3.098
+ },
+ {
+  "date": "Apr 05, 2010",
+  "price": 3.093
+ },
+ {
+  "date": "Apr 12, 2010",
+  "price": 3.109
+ },
+ {
+  "date": "Apr 19, 2010",
+  "price": 3.098
+ },
+ {
+  "date": "Apr 26, 2010",
+  "price": 3.1
+ },
+ {
+  "date": "May 03, 2010",
+  "price": 3.139
+ },
+ {
+  "date": "May 10, 2010",
+  "price": 3.148
+ },
+ {
+  "date": "May 17, 2010",
+  "price": 3.129
+ },
+ {
+  "date": "May 24, 2010",
+  "price": 3.07
+ },
+ {
+  "date": "May 31, 2010",
+  "price": 3.045
+ },
+ {
+  "date": "Jun 07, 2010",
+  "price": 3.112
+ },
+ {
+  "date": "Jun 14, 2010",
+  "price": 3.096
+ },
+ {
+  "date": "Jun 21, 2010",
+  "price": 3.151
+ },
+ {
+  "date": "Jun 28, 2010",
+  "price": 3.174
+ },
+ {
+  "date": "Jul 05, 2010",
+  "price": 3.161
+ },
+ {
+  "date": "Jul 12, 2010",
+  "price": 3.15
+ },
+ {
+  "date": "Jul 19, 2010",
+  "price": 3.172
+ },
+ {
+  "date": "Jul 26, 2010",
+  "price": 3.169
+ },
+ {
+  "date": "Aug 02, 2010",
+  "price": 3.168
+ },
+ {
+  "date": "Aug 09, 2010",
+  "price": 3.205
+ },
+ {
+  "date": "Aug 16, 2010",
+  "price": 3.203
+ },
+ {
+  "date": "Aug 23, 2010",
+  "price": 3.159
+ },
+ {
+  "date": "Aug 30, 2010",
+  "price": 3.12
+ },
+ {
+  "date": "Sep 06, 2010",
+  "price": 3.082
+ },
+ {
+  "date": "Sep 13, 2010",
+  "price": 3.045
+ },
+ {
+  "date": "Sep 20, 2010",
+  "price": 3.035
+ },
+ {
+  "date": "Sep 27, 2010",
+  "price": 3.025
+ },
+ {
+  "date": "Oct 04, 2010",
+  "price": 3.04
+ },
+ {
+  "date": "Oct 11, 2010",
+  "price": 3.126
+ },
+ {
+  "date": "Oct 18, 2010",
+  "price": 3.171
+ },
+ {
+  "date": "Oct 25, 2010",
+  "price": 3.157
+ },
+ {
+  "date": "Nov 01, 2010",
+  "price": 3.165
+ },
+ {
+  "date": "Nov 08, 2010",
+  "price": 3.159
+ },
+ {
+  "date": "Nov 15, 2010",
+  "price": 3.207
+ },
+ {
+  "date": "Nov 22, 2010",
+  "price": 3.203
+ },
+ {
+  "date": "Nov 29, 2010",
+  "price": 3.188
+ },
+ {
+  "date": "Dec 06, 2010",
+  "price": 3.241
+ },
+ {
+  "date": "Dec 13, 2010",
+  "price": 3.295
+ },
+ {
+  "date": "Dec 20, 2010",
+  "price": 3.287
+ },
+ {
+  "date": "Dec 27, 2010",
+  "price": 3.331
+ },
+ {
+  "date": "Jan 03, 2011",
+  "price": 3.322
+ },
+ {
+  "date": "Jan 10, 2011",
+  "price": 3.351
+ },
+ {
+  "date": "Jan 17, 2011",
+  "price": 3.377
+ },
+ {
+  "date": "Jan 24, 2011",
+  "price": 3.388
+ },
+ {
+  "date": "Jan 31, 2011",
+  "price": 3.381
+ },
+ {
+  "date": "Feb 07, 2011",
+  "price": 3.419
+ },
+ {
+  "date": "Feb 14, 2011",
+  "price": 3.47
+ },
+ {
+  "date": "Feb 21, 2011",
+  "price": 3.574
+ },
+ {
+  "date": "Feb 28, 2011",
+  "price": 3.753
+ },
+ {
+  "date": "Mar 07, 2011",
+  "price": 3.915
+ },
+ {
+  "date": "Mar 14, 2011",
+  "price": 3.968
+ },
+ {
+  "date": "Mar 21, 2011",
+  "price": 3.98
+ },
+ {
+  "date": "Mar 28, 2011",
+  "price": 4.044
+ },
+ {
+  "date": "Apr 04, 2011",
+  "price": 4.08
+ },
+ {
+  "date": "Apr 11, 2011",
+  "price": 4.176
+ },
+ {
+  "date": "Apr 18, 2011",
+  "price": 4.216
+ },
+ {
+  "date": "Apr 25, 2011",
+  "price": 4.246
+ },
+ {
+  "date": "May 02, 2011",
+  "price": 4.285
+ },
+ {
+  "date": "May 09, 2011",
+  "price": 4.285
+ },
+ {
+  "date": "May 16, 2011",
+  "price": 4.239
+ },
+ {
+  "date": "May 23, 2011",
+  "price": 4.143
+ },
+ {
+  "date": "May 30, 2011",
+  "price": 4.061
+ },
+ {
+  "date": "Jun 06, 2011",
+  "price": 4.007
+ },
+ {
+  "date": "Jun 13, 2011",
+  "price": 3.946
+ },
+ {
+  "date": "Jun 20, 2011",
+  "price": 3.928
+ },
+ {
+  "date": "Jun 27, 2011",
+  "price": 3.858
+ },
+ {
+  "date": "Jul 04, 2011",
+  "price": 3.816
+ },
+ {
+  "date": "Jul 11, 2011",
+  "price": 3.804
+ },
+ {
+  "date": "Jul 18, 2011",
+  "price": 3.831
+ },
+ {
+  "date": "Jul 25, 2011",
+  "price": 3.836
+ },
+ {
+  "date": "Aug 01, 2011",
+  "price": 3.842
+ },
+ {
+  "date": "Aug 08, 2011",
+  "price": 3.83
+ },
+ {
+  "date": "Aug 15, 2011",
+  "price": 3.77
+ },
+ {
+  "date": "Aug 22, 2011",
+  "price": 3.754
+ },
+ {
+  "date": "Aug 29, 2011",
+  "price": 3.866
+ },
+ {
+  "date": "Sep 05, 2011",
+  "price": 3.967
+ },
+ {
+  "date": "Sep 12, 2011",
+  "price": 3.96
+ },
+ {
+  "date": "Sep 19, 2011",
+  "price": 3.939
+ },
+ {
+  "date": "Sep 26, 2011",
+  "price": 3.892
+ },
+ {
+  "date": "Oct 03, 2011",
+  "price": 3.846
+ },
+ {
+  "date": "Oct 10, 2011",
+  "price": 3.838
+ },
+ {
+  "date": "Oct 17, 2011",
+  "price": 3.858
+ },
+ {
+  "date": "Oct 24, 2011",
+  "price": 3.865
+ },
+ {
+  "date": "Oct 31, 2011",
+  "price": 3.863
+ },
+ {
+  "date": "Nov 07, 2011",
+  "price": 3.85
+ },
+ {
+  "date": "Nov 14, 2011",
+  "price": 3.82
+ },
+ {
+  "date": "Nov 21, 2011",
+  "price": 3.762
+ },
+ {
+  "date": "Nov 28, 2011",
+  "price": 3.7
+ },
+ {
+  "date": "Dec 05, 2011",
+  "price": 3.643
+ },
+ {
+  "date": "Dec 12, 2011",
+  "price": 3.586
+ },
+ {
+  "date": "Dec 19, 2011",
+  "price": 3.537
+ },
+ {
+  "date": "Dec 26, 2011",
+  "price": 3.564
+ },
+ {
+  "date": "Jan 02, 2012",
+  "price": 3.617
+ },
+ {
+  "date": "Jan 09, 2012",
+  "price": 3.689
+ },
+ {
+  "date": "Jan 16, 2012",
+  "price": 3.675
+ },
+ {
+  "date": "Jan 23, 2012",
+  "price": 3.697
+ },
+ {
+  "date": "Jan 30, 2012",
+  "price": 3.731
+ },
+ {
+  "date": "Feb 06, 2012",
+  "price": 3.74
+ },
+ {
+  "date": "Feb 13, 2012",
+  "price": 3.814
+ },
+ {
+  "date": "Feb 20, 2012",
+  "price": 4.054
+ },
+ {
+  "date": "Feb 27, 2012",
+  "price": 4.313
+ },
+ {
+  "date": "Mar 05, 2012",
+  "price": 4.353
+ },
+ {
+  "date": "Mar 12, 2012",
+  "price": 4.356
+ },
+ {
+  "date": "Mar 19, 2012",
+  "price": 4.339
+ },
+ {
+  "date": "Mar 26, 2012",
+  "price": 4.336
+ },
+ {
+  "date": "Apr 02, 2012",
+  "price": 4.315
+ },
+ {
+  "date": "Apr 09, 2012",
+  "price": 4.257
+ },
+ {
+  "date": "Apr 16, 2012",
+  "price": 4.221
+ },
+ {
+  "date": "Apr 23, 2012",
+  "price": 4.191
+ },
+ {
+  "date": "Apr 30, 2012",
+  "price": 4.173
+ },
+ {
+  "date": "May 07, 2012",
+  "price": 4.217
+ },
+ {
+  "date": "May 14, 2012",
+  "price": 4.386
+ },
+ {
+  "date": "May 21, 2012",
+  "price": 4.348
+ },
+ {
+  "date": "May 28, 2012",
+  "price": 4.328
+ },
+ {
+  "date": "Jun 04, 2012",
+  "price": 4.271
+ },
+ {
+  "date": "Jun 11, 2012",
+  "price": 4.184
+ },
+ {
+  "date": "Jun 18, 2012",
+  "price": 4.05
+ },
+ {
+  "date": "Jun 25, 2012",
+  "price": 3.893
+ },
+ {
+  "date": "Jul 02, 2012",
+  "price": 3.795
+ },
+ {
+  "date": "Jul 09, 2012",
+  "price": 3.726
+ },
+ {
+  "date": "Jul 16, 2012",
+  "price": 3.734
+ },
+ {
+  "date": "Jul 23, 2012",
+  "price": 3.797
+ },
+ {
+  "date": "Jul 30, 2012",
+  "price": 3.816
+ },
+ {
+  "date": "Aug 06, 2012",
+  "price": 3.872
+ },
+ {
+  "date": "Aug 13, 2012",
+  "price": 4.152
+ },
+ {
+  "date": "Aug 20, 2012",
+  "price": 4.148
+ },
+ {
+  "date": "Aug 27, 2012",
+  "price": 4.166
+ },
+ {
+  "date": "Sep 03, 2012",
+  "price": 4.197
+ },
+ {
+  "date": "Sep 10, 2012",
+  "price": 4.196
+ },
+ {
+  "date": "Sep 17, 2012",
+  "price": 4.165
+ },
+ {
+  "date": "Sep 24, 2012",
+  "price": 4.192
+ },
+ {
+  "date": "Oct 01, 2012",
+  "price": 4.216
+ },
+ {
+  "date": "Oct 08, 2012",
+  "price": 4.675
+ },
+ {
+  "date": "Oct 15, 2012",
+  "price": 4.615
+ },
+ {
+  "date": "Oct 22, 2012",
+  "price": 4.441
+ },
+ {
+  "date": "Oct 29, 2012",
+  "price": 4.196
+ },
+ {
+  "date": "Nov 05, 2012",
+  "price": 4.01
+ },
+ {
+  "date": "Nov 12, 2012",
+  "price": 3.9
+ },
+ {
+  "date": "Nov 19, 2012",
+  "price": 3.81
+ },
+ {
+  "date": "Nov 26, 2012",
+  "price": 3.776
+ },
+ {
+  "date": "Dec 03, 2012",
+  "price": 3.707
+ },
+ {
+  "date": "Dec 10, 2012",
+  "price": 3.63
+ },
+ {
+  "date": "Dec 17, 2012",
+  "price": 3.54
+ },
+ {
+  "date": "Dec 24, 2012",
+  "price": 3.511
+ },
+ {
+  "date": "Dec 31, 2012",
+  "price": 3.585
+ },
+ {
+  "date": "Jan 07, 2013",
+  "price": 3.615
+ },
+ {
+  "date": "Jan 14, 2013",
+  "price": 3.612
+ },
+ {
+  "date": "Jan 21, 2013",
+  "price": 3.607
+ },
+ {
+  "date": "Jan 28, 2013",
+  "price": 3.652
+ },
+ {
+  "date": "Feb 04, 2013",
+  "price": 3.867
+ },
+ {
+  "date": "Feb 11, 2013",
+  "price": 3.973
+ },
+ {
+  "date": "Feb 18, 2013",
+  "price": 4.081
+ },
+ {
+  "date": "Feb 25, 2013",
+  "price": 4.198
+ },
+ {
+  "date": "Mar 04, 2013",
+  "price": 4.203
+ },
+ {
+  "date": "Mar 11, 2013",
+  "price": 4.174
+ },
+ {
+  "date": "Mar 18, 2013",
+  "price": 4.119
+ },
+ {
+  "date": "Mar 25, 2013",
+  "price": 4.053
+ },
+ {
+  "date": "Apr 01, 2013",
+  "price": 4.059
+ },
+ {
+  "date": "Apr 08, 2013",
+  "price": 4.045
+ },
+ {
+  "date": "Apr 15, 2013",
+  "price": 4.008
+ },
+ {
+  "date": "Apr 22, 2013",
+  "price": 3.988
+ },
+ {
+  "date": "Apr 29, 2013",
+  "price": 3.962
+ },
+ {
+  "date": "May 06, 2013",
+  "price": 3.941
+ },
+ {
+  "date": "May 13, 2013",
+  "price": 4.072
+ },
+ {
+  "date": "May 20, 2013",
+  "price": 4.08
+ },
+ {
+  "date": "May 27, 2013",
+  "price": 4.045
+ },
+ {
+  "date": "Jun 03, 2013",
+  "price": 4.016
+ },
+ {
+  "date": "Jun 10, 2013",
+  "price": 3.988
+ },
+ {
+  "date": "Jun 17, 2013",
+  "price": 4.021
+ },
+ {
+  "date": "Jun 24, 2013",
+  "price": 4.065
+ },
+ {
+  "date": "Jul 01, 2013",
+  "price": 4.002
+ },
+ {
+  "date": "Jul 08, 2013",
+  "price": 3.987
+ },
+ {
+  "date": "Jul 15, 2013",
+  "price": 4.01
+ },
+ {
+  "date": "Jul 22, 2013",
+  "price": 4.023
+ },
+ {
+  "date": "Jul 29, 2013",
+  "price": 3.972
+ },
+ {
+  "date": "Aug 05, 2013",
+  "price": 3.956
+ },
+ {
+  "date": "Aug 12, 2013",
+  "price": 3.911
+ },
+ {
+  "date": "Aug 19, 2013",
+  "price": 3.862
+ },
+ {
+  "date": "Aug 26, 2013",
+  "price": 3.823
+ },
+ {
+  "date": "Sep 02, 2013",
+  "price": 3.844
+ },
+ {
+  "date": "Sep 09, 2013",
+  "price": 3.909
+ },
+ {
+  "date": "Sep 16, 2013",
+  "price": 4.054
+ },
+ {
+  "date": "Sep 23, 2013",
+  "price": 4.033
+ },
+ {
+  "date": "Sep 30, 2013",
+  "price": 3.969
+ },
+ {
+  "date": "Oct 07, 2013",
+  "price": 3.924
+ },
+ {
+  "date": "Oct 14, 2013",
+  "price": 3.889
+ },
+ {
+  "date": "Oct 21, 2013",
+  "price": 3.856
+ },
+ {
+  "date": "Oct 28, 2013",
+  "price": 3.805
+ },
+ {
+  "date": "Nov 04, 2013",
+  "price": 3.733
+ },
+ {
+  "date": "Nov 11, 2013",
+  "price": 3.659
+ },
+ {
+  "date": "Nov 18, 2013",
+  "price": 3.604
+ },
+ {
+  "date": "Nov 25, 2013",
+  "price": 3.577
+ },
+ {
+  "date": "Dec 02, 2013",
+  "price": 3.585
+ },
+ {
+  "date": "Dec 09, 2013",
+  "price": 3.587
+ },
+ {
+  "date": "Dec 16, 2013",
+  "price": 3.578
+ },
+ {
+  "date": "Dec 23, 2013",
+  "price": 3.606
+ },
+ {
+  "date": "Dec 30, 2013",
+  "price": 3.66
+ },
+ {
+  "date": "Jan 06, 2014",
+  "price": 3.672
+ },
+ {
+  "date": "Jan 13, 2014",
+  "price": 3.659
+ },
+ {
+  "date": "Jan 20, 2014",
+  "price": 3.627
+ },
+ {
+  "date": "Jan 27, 2014",
+  "price": 3.622
+ },
+ {
+  "date": "Feb 03, 2014",
+  "price": 3.627
+ },
+ {
+  "date": "Feb 10, 2014",
+  "price": 3.634
+ },
+ {
+  "date": "Feb 17, 2014",
+  "price": 3.701
+ },
+ {
+  "date": "Feb 24, 2014",
+  "price": 3.78
+ },
+ {
+  "date": "Mar 03, 2014",
+  "price": 3.862
+ },
+ {
+  "date": "Mar 10, 2014",
+  "price": 3.922
+ },
+ {
+  "date": "Mar 17, 2014",
+  "price": 3.969
+ },
+ {
+  "date": "Mar 24, 2014",
+  "price": 3.976
+ },
+ {
+  "date": "Mar 31, 2014",
+  "price": 4.005
+ },
+ {
+  "date": "Apr 07, 2014",
+  "price": 4.039
+ },
+ {
+  "date": "Apr 14, 2014",
+  "price": 4.139
+ },
+ {
+  "date": "Apr 21, 2014",
+  "price": 4.183
+ },
+ {
+  "date": "Apr 28, 2014",
+  "price": 4.27
+ },
+ {
+  "date": "May 05, 2014",
+  "price": 4.265
+ },
+ {
+  "date": "May 12, 2014",
+  "price": 4.19
+ },
+ {
+  "date": "May 19, 2014",
+  "price": 4.204
+ },
+ {
+  "date": "May 26, 2014",
+  "price": 4.18
+ },
+ {
+  "date": "Jun 02, 2014",
+  "price": 4.169
+ },
+ {
+  "date": "Jun 09, 2014",
+  "price": 4.155
+ },
+ {
+  "date": "Jun 16, 2014",
+  "price": 4.148
+ },
+ {
+  "date": "Jun 23, 2014",
+  "price": 4.133
+ },
+ {
+  "date": "Jun 30, 2014",
+  "price": 4.164
+ },
+ {
+  "date": "Jul 07, 2014",
+  "price": 4.156
+ },
+ {
+  "date": "Jul 14, 2014",
+  "price": 4.109
+ },
+ {
+  "date": "Jul 21, 2014",
+  "price": 4.059
+ },
+ {
+  "date": "Jul 28, 2014",
+  "price": 4.019
+ },
+ {
+  "date": "Aug 04, 2014",
+  "price": 4.002
+ },
+ {
+  "date": "Aug 11, 2014",
+  "price": 3.96
+ },
+ {
+  "date": "Aug 18, 2014",
+  "price": 3.937
+ },
+ {
+  "date": "Aug 25, 2014",
+  "price": 3.923
+ },
+ {
+  "date": "Sep 01, 2014",
+  "price": 3.906
+ },
+ {
+  "date": "Sep 08, 2014",
+  "price": 3.863
+ },
+ {
+  "date": "Sep 15, 2014",
+  "price": 3.833
+ },
+ {
+  "date": "Sep 22, 2014",
+  "price": 3.799
+ },
+ {
+  "date": "Sep 29, 2014",
+  "price": 3.762
+ },
+ {
+  "date": "Oct 06, 2014",
+  "price": 3.723
+ },
+ {
+  "date": "Oct 13, 2014",
+  "price": 3.64
+ },
+ {
+  "date": "Oct 20, 2014",
+  "price": 3.545
+ },
+ {
+  "date": "Oct 27, 2014",
+  "price": 3.436
+ },
+ {
+  "date": "Nov 03, 2014",
+  "price": 3.373
+ },
+ {
+  "date": "Nov 10, 2014",
+  "price": 3.283
+ },
+ {
+  "date": "Nov 17, 2014",
+  "price": 3.203
+ },
+ {
+  "date": "Nov 24, 2014",
+  "price": 3.136
+ },
+ {
+  "date": "Dec 01, 2014",
+  "price": 3.122
+ },
+ {
+  "date": "Dec 08, 2014",
+  "price": 3.03
+ },
+ {
+  "date": "Dec 15, 2014",
+  "price": 2.929
+ },
+ {
+  "date": "Dec 22, 2014",
+  "price": 2.819
+ },
+ {
+  "date": "Dec 29, 2014",
+  "price": 2.753
+ },
+ {
+  "date": "Jan 05, 2015",
+  "price": 2.745
+ },
+ {
+  "date": "Jan 12, 2015",
+  "price": 2.642
+ },
+ {
+  "date": "Jan 19, 2015",
+  "price": 2.575
+ },
+ {
+  "date": "Jan 26, 2015",
+  "price": 2.541
+ },
+ {
+  "date": "Feb 02, 2015",
+  "price": 2.534
+ },
+ {
+  "date": "Feb 09, 2015",
+  "price": 2.682
+ },
+ {
+  "date": "Feb 16, 2015",
+  "price": 2.784
+ },
+ {
+  "date": "Feb 23, 2015",
+  "price": 2.905
+ },
+ {
+  "date": "Mar 02, 2015",
+  "price": 3.409
+ },
+ {
+  "date": "Mar 09, 2015",
+  "price": 3.442
+ },
+ {
+  "date": "Mar 16, 2015",
+  "price": 3.363
+ },
+ {
+  "date": "Mar 23, 2015",
+  "price": 3.282
+ },
+ {
+  "date": "Mar 30, 2015",
+  "price": 3.229
+ },
+ {
+  "date": "Apr 06, 2015",
+  "price": 3.176
+ },
+ {
+  "date": "Apr 13, 2015",
+  "price": 3.149
+ },
+ {
+  "date": "Apr 20, 2015",
+  "price": 3.198
+ },
+ {
+  "date": "Apr 27, 2015",
+  "price": 3.44
+ },
+ {
+  "date": "May 04, 2015",
+  "price": 3.732
+ },
+ {
+  "date": "May 11, 2015",
+  "price": 3.702
+ },
+ {
+  "date": "May 18, 2015",
+  "price": 3.724
+ },
+ {
+  "date": "May 25, 2015",
+  "price": 3.686
+ },
+ {
+  "date": "Jun 01, 2015",
+  "price": 3.63
+ },
+ {
+  "date": "Jun 08, 2015",
+  "price": 3.567
+ },
+ {
+  "date": "Jun 15, 2015",
+  "price": 3.519
+ },
+ {
+  "date": "Jun 22, 2015",
+  "price": 3.491
+ },
+ {
+  "date": "Jun 29, 2015",
+  "price": 3.468
+ },
+ {
+  "date": "Jul 06, 2015",
+  "price": 3.468
+ },
+ {
+  "date": "Jul 13, 2015",
+  "price": 3.55
+ },
+ {
+  "date": "Jul 20, 2015",
+  "price": 3.56
+ },
+ {
+  "date": "Jul 27, 2015",
+  "price": 3.553
+ },
+ {
+  "date": "Aug 03, 2015",
+  "price": 3.514
+ },
+ {
+  "date": "Aug 10, 2015",
+  "price": 3.421
+ },
+ {
+  "date": "Aug 17, 2015",
+  "price": 3.432
+ },
+ {
+  "date": "Aug 24, 2015",
+  "price": 3.33
+ },
+ {
+  "date": "Aug 31, 2015",
+  "price": 3.237
+ },
+ {
+  "date": "Sep 07, 2015",
+  "price": 3.177
+ },
+ {
+  "date": "Sep 14, 2015",
+  "price": 3.083
+ },
+ {
+  "date": "Sep 21, 2015",
+  "price": 3.005
+ },
+ {
+  "date": "Sep 28, 2015",
+  "price": 2.975
+ },
+ {
+  "date": "Oct 05, 2015",
+  "price": 2.937
+ },
+ {
+  "date": "Oct 12, 2015",
+  "price": 2.912
+ },
+ {
+  "date": "Oct 19, 2015",
+  "price": 2.882
+ },
+ {
+  "date": "Oct 26, 2015",
+  "price": 2.856
+ },
+ {
+  "date": "Nov 02, 2015",
+  "price": 2.82
+ },
+ {
+  "date": "Nov 09, 2015",
+  "price": 2.832
+ },
+ {
+  "date": "Nov 16, 2015",
+  "price": 2.807
+ },
+ {
+  "date": "Nov 23, 2015",
+  "price": 2.748
+ },
+ {
+  "date": "Nov 30, 2015",
+  "price": 2.735
+ },
+ {
+  "date": "Dec 07, 2015",
+  "price": 2.686
+ },
+ {
+  "date": "Dec 14, 2015",
+  "price": 2.667
+ },
+ {
+  "date": "Dec 21, 2015",
+  "price": 2.716
+ },
+ {
+  "date": "Dec 28, 2015",
+  "price": 2.739
+ },
+ {
+  "date": "Jan 04, 2016",
+  "price": 2.753
+ },
+ {
+  "date": "Jan 11, 2016",
+  "price": 2.738
+ },
+ {
+  "date": "Jan 18, 2016",
+  "price": 2.648
+ },
+ {
+  "date": "Jan 25, 2016",
+  "price": 2.595
+ },
+ {
+  "date": "Feb 01, 2016",
+  "price": 2.533
+ },
+ {
+  "date": "Feb 08, 2016",
+  "price": 2.486
+ },
+ {
+  "date": "Feb 15, 2016",
+  "price": 2.436
+ },
+ {
+  "date": "Feb 22, 2016",
+  "price": 2.391
+ },
+ {
+  "date": "Feb 29, 2016",
+  "price": 2.396
+ },
+ {
+  "date": "Mar 07, 2016",
+  "price": 2.451
+ },
+ {
+  "date": "Mar 14, 2016",
+  "price": 2.591
+ },
+ {
+  "date": "Mar 21, 2016",
+  "price": 2.67
+ },
+ {
+  "date": "Mar 28, 2016",
+  "price": 2.793
+ },
+ {
+  "date": "Apr 04, 2016",
+  "price": 2.8
+ },
+ {
+  "date": "Apr 11, 2016",
+  "price": 2.78
+ },
+ {
+  "date": "Apr 18, 2016",
+  "price": 2.822
+ },
+ {
+  "date": "Apr 25, 2016",
+  "price": 2.832
+ },
+ {
+  "date": "May 02, 2016",
+  "price": 2.851
+ },
+ {
+  "date": "May 09, 2016",
+  "price": 2.853
+ },
+ {
+  "date": "May 16, 2016",
+  "price": 2.881
+ },
+ {
+  "date": "May 23, 2016",
+  "price": 2.881
+ },
+ {
+  "date": "May 30, 2016",
+  "price": 2.883
+ },
+ {
+  "date": "Jun 06, 2016",
+  "price": 2.885
+ },
+ {
+  "date": "Jun 13, 2016",
+  "price": 2.929
+ },
+ {
+  "date": "Jun 20, 2016",
+  "price": 2.916
+ },
+ {
+  "date": "Jun 27, 2016",
+  "price": 2.938
+ },
+ {
+  "date": "Jul 04, 2016",
+  "price": 2.944
+ },
+ {
+  "date": "Jul 11, 2016",
+  "price": 2.924
+ },
+ {
+  "date": "Jul 18, 2016",
+  "price": 2.914
+ },
+ {
+  "date": "Jul 25, 2016",
+  "price": 2.864
+ },
+ {
+  "date": "Aug 01, 2016",
+  "price": 2.784
+ },
+ {
+  "date": "Aug 08, 2016",
+  "price": 2.745
+ },
+ {
+  "date": "Aug 15, 2016",
+  "price": 2.71
+ },
+ {
+  "date": "Aug 22, 2016",
+  "price": 2.758
+ },
+ {
+  "date": "Aug 29, 2016",
+  "price": 2.752
+ },
+ {
+  "date": "Sep 05, 2016",
+  "price": 2.743
+ },
+ {
+  "date": "Sep 12, 2016",
+  "price": 2.816
+ },
+ {
+  "date": "Sep 19, 2016",
+  "price": 2.828
+ },
+ {
+  "date": "Sep 26, 2016",
+  "price": 2.819
+ },
+ {
+  "date": "Oct 03, 2016",
+  "price": 2.824
+ },
+ {
+  "date": "Oct 10, 2016",
+  "price": 2.823
+ },
+ {
+  "date": "Oct 17, 2016",
+  "price": 2.815
+ },
+ {
+  "date": "Oct 24, 2016",
+  "price": 2.815
+ },
+ {
+  "date": "Oct 31, 2016",
+  "price": 2.798
+ },
+ {
+  "date": "Nov 07, 2016",
+  "price": 2.782
+ },
+ {
+  "date": "Nov 14, 2016",
+  "price": 2.719
+ },
+ {
+  "date": "Nov 21, 2016",
+  "price": 2.704
+ },
+ {
+  "date": "Nov 28, 2016",
+  "price": 2.697
+ },
+ {
+  "date": "Dec 05, 2016",
+  "price": 2.698
+ },
+ {
+  "date": "Dec 12, 2016",
+  "price": 2.706
+ },
+ {
+  "date": "Dec 19, 2016",
+  "price": 2.715
+ },
+ {
+  "date": "Dec 26, 2016",
+  "price": 2.742
+ },
+ {
+  "date": "Jan 02, 2017",
+  "price": 2.8
+ },
+ {
+  "date": "Jan 09, 2017",
+  "price": 2.82
+ },
+ {
+  "date": "Jan 16, 2017",
+  "price": 2.859
+ },
+ {
+  "date": "Jan 23, 2017",
+  "price": 2.847
+ },
+ {
+  "date": "Jan 30, 2017",
+  "price": 2.842
+ },
+ {
+  "date": "Feb 06, 2017",
+  "price": 2.86
+ },
+ {
+  "date": "Feb 13, 2017",
+  "price": 2.889
+ },
+ {
+  "date": "Feb 20, 2017",
+  "price": 2.918
+ },
+ {
+  "date": "Feb 27, 2017",
+  "price": 2.965
+ },
+ {
+  "date": "Mar 06, 2017",
+  "price": 3.031
+ },
+ {
+  "date": "Mar 13, 2017",
+  "price": 3.029
+ },
+ {
+  "date": "Mar 20, 2017",
+  "price": 3.049
+ },
+ {
+  "date": "Mar 27, 2017",
+  "price": 3.045
+ },
+ {
+  "date": "Apr 03, 2017",
+  "price": 3.053
+ },
+ {
+  "date": "Apr 10, 2017",
+  "price": 3.05
+ },
+ {
+  "date": "Apr 17, 2017",
+  "price": 3.061
+ },
+ {
+  "date": "Apr 24, 2017",
+  "price": 3.057
+ },
+ {
+  "date": "May 01, 2017",
+  "price": 3.055
+ },
+ {
+  "date": "May 08, 2017",
+  "price": 3.041
+ },
+ {
+  "date": "May 15, 2017",
+  "price": 3.071
+ },
+ {
+  "date": "May 22, 2017",
+  "price": 3.186
+ },
+ {
+  "date": "May 29, 2017",
+  "price": 3.232
+ },
+ {
+  "date": "Jun 05, 2017",
+  "price": 3.197
+ },
+ {
+  "date": "Jun 12, 2017",
+  "price": 3.147
+ },
+ {
+  "date": "Jun 19, 2017",
+  "price": 3.097
+ },
+ {
+  "date": "Jun 26, 2017",
+  "price": 3.065
+ },
+ {
+  "date": "Jul 03, 2017",
+  "price": 3.042
+ },
+ {
+  "date": "Jul 10, 2017",
+  "price": 3.027
+ },
+ {
+  "date": "Jul 17, 2017",
+  "price": 3.022
+ },
+ {
+  "date": "Jul 24, 2017",
+  "price": 3.006
+ },
+ {
+  "date": "Jul 31, 2017",
+  "price": 3.032
+ },
+ {
+  "date": "Aug 07, 2017",
+  "price": 3.045
+ },
+ {
+  "date": "Aug 14, 2017",
+  "price": 3.06
+ },
+ {
+  "date": "Aug 21, 2017",
+  "price": 3.065
+ },
+ {
+  "date": "Aug 28, 2017",
+  "price": 3.068
+ },
+ {
+  "date": "Sep 04, 2017",
+  "price": 3.179
+ },
+ {
+  "date": "Sep 11, 2017",
+  "price": 3.226
+ },
+ {
+  "date": "Sep 18, 2017",
+  "price": 3.226
+ },
+ {
+  "date": "Sep 25, 2017",
+  "price": 3.203
+ },
+ {
+  "date": "Oct 02, 2017",
+  "price": 3.188
+ },
+ {
+  "date": "Oct 09, 2017",
+  "price": 3.161
+ },
+ {
+  "date": "Oct 16, 2017",
+  "price": 3.145
+ },
+ {
+  "date": "Oct 23, 2017",
+  "price": 3.125
+ },
+ {
+  "date": "Oct 30, 2017",
+  "price": 3.1
+ },
+ {
+  "date": "Nov 06, 2017",
+  "price": 3.271
+ },
+ {
+  "date": "Nov 13, 2017",
+  "price": 3.283
+ },
+ {
+  "date": "Nov 20, 2017",
+  "price": 3.255
+ },
+ {
+  "date": "Nov 27, 2017",
+  "price": 3.233
+ },
+ {
+  "date": "Dec 04, 2017",
+  "price": 3.232
+ },
+ {
+  "date": "Dec 11, 2017",
+  "price": 3.207
+ },
+ {
+  "date": "Dec 18, 2017",
+  "price": 3.186
+ },
+ {
+  "date": "Dec 25, 2017",
+  "price": 3.182
+ },
+ {
+  "date": "Jan 01, 2018",
+  "price": 3.183
+ },
+ {
+  "date": "Jan 08, 2018",
+  "price": 3.206
+ },
+ {
+  "date": "Jan 15, 2018",
+  "price": 3.193
+ },
+ {
+  "date": "Jan 22, 2018",
+  "price": 3.201
+ },
+ {
+  "date": "Jan 29, 2018",
+  "price": 3.269
+ },
+ {
+  "date": "Feb 05, 2018",
+  "price": 3.367
+ },
+ {
+  "date": "Feb 12, 2018",
+  "price": 3.347
+ },
+ {
+  "date": "Feb 19, 2018",
+  "price": 3.348
+ },
+ {
+  "date": "Feb 26, 2018",
+  "price": 3.387
+ },
+ {
+  "date": "Mar 05, 2018",
+  "price": 3.397
+ },
+ {
+  "date": "Mar 12, 2018",
+  "price": 3.442
+ },
+ {
+  "date": "Mar 19, 2018",
+  "price": 3.487
+ },
+ {
+  "date": "Mar 26, 2018",
+  "price": 3.53
+ },
+ {
+  "date": "Apr 02, 2018",
+  "price": 3.576
+ },
+ {
+  "date": "Apr 09, 2018",
+  "price": 3.594
+ },
+ {
+  "date": "Apr 16, 2018",
+  "price": 3.651
+ },
+ {
+  "date": "Apr 23, 2018",
+  "price": 3.66
+ },
+ {
+  "date": "Apr 30, 2018",
+  "price": 3.695
+ },
+ {
+  "date": "May 07, 2018",
+  "price": 3.71
+ },
+ {
+  "date": "May 14, 2018",
+  "price": 3.652
+ },
+ {
+  "date": "May 21, 2018",
+  "price": 3.676
+ },
+ {
+  "date": "May 28, 2018",
+  "price": 3.687
+ },
+ {
+  "date": "Jun 04, 2018",
+  "price": 3.687
+ },
+ {
+  "date": "Jun 11, 2018",
+  "price": 3.681
+ },
+ {
+  "date": "Jun 18, 2018",
+  "price": 3.663
+ },
+ {
+  "date": "Jun 25, 2018",
+  "price": 3.634
+ },
+ {
+  "date": "Jul 02, 2018",
+  "price": 3.635
+ },
+ {
+  "date": "Jul 09, 2018",
+  "price": 3.636
+ },
+ {
+  "date": "Jul 16, 2018",
+  "price": 3.629
+ },
+ {
+  "date": "Jul 23, 2018",
+  "price": 3.608
+ },
+ {
+  "date": "Jul 30, 2018",
+  "price": 3.572
+ },
+ {
+  "date": "Aug 06, 2018",
+  "price": 3.567
+ },
+ {
+  "date": "Aug 13, 2018",
+  "price": 3.549
+ },
+ {
+  "date": "Aug 20, 2018",
+  "price": 3.523
+ },
+ {
+  "date": "Aug 27, 2018",
+  "price": 3.528
+ },
+ {
+  "date": "Sep 03, 2018",
+  "price": 3.547
+ },
+ {
+  "date": "Sep 10, 2018",
+  "price": 3.554
+ },
+ {
+  "date": "Sep 17, 2018",
+  "price": 3.575
+ },
+ {
+  "date": "Sep 24, 2018",
+  "price": 3.578
+ },
+ {
+  "date": "Oct 01, 2018",
+  "price": 3.662
+ },
+ {
+  "date": "Oct 08, 2018",
+  "price": 3.737
+ },
+ {
+  "date": "Oct 15, 2018",
+  "price": 3.752
+ },
+ {
+  "date": "Oct 22, 2018",
+  "price": 3.758
+ },
+ {
+  "date": "Oct 29, 2018",
+  "price": 3.722
+ },
+ {
+  "date": "Nov 05, 2018",
+  "price": 3.71
+ },
+ {
+  "date": "Nov 12, 2018",
+  "price": 3.649
+ },
+ {
+  "date": "Nov 19, 2018",
+  "price": 3.568
+ },
+ {
+  "date": "Nov 26, 2018",
+  "price": 3.535
+ },
+ {
+  "date": "Dec 03, 2018",
+  "price": 3.457
+ },
+ {
+  "date": "Dec 10, 2018",
+  "price": 3.415
+ },
+ {
+  "date": "Dec 17, 2018",
+  "price": 3.402
+ },
+ {
+  "date": "Dec 24, 2018",
+  "price": 3.397
+ },
+ {
+  "date": "Dec 31, 2018",
+  "price": 3.376
+ },
+ {
+  "date": "Jan 07, 2019",
+  "price": 3.348
+ },
+ {
+  "date": "Jan 14, 2019",
+  "price": 3.295
+ },
+ {
+  "date": "Jan 21, 2019",
+  "price": 3.26
+ },
+ {
+  "date": "Jan 28, 2019",
+  "price": 3.244
+ },
+ {
+  "date": "Feb 04, 2019",
+  "price": 3.228
+ },
+ {
+  "date": "Feb 11, 2019",
+  "price": 3.249
+ },
+ {
+  "date": "Feb 18, 2019",
+  "price": 3.241
+ },
+ {
+  "date": "Feb 25, 2019",
+  "price": 3.234
+ },
+ {
+  "date": "Mar 04, 2019",
+  "price": 3.257
+ },
+ {
+  "date": "Mar 11, 2019",
+  "price": 3.288
+ },
+ {
+  "date": "Mar 18, 2019",
+  "price": 3.343
+ },
+ {
+  "date": "Mar 25, 2019",
+  "price": 3.439
+ },
+ {
+  "date": "Apr 01, 2019",
+  "price": 3.551
+ },
+ {
+  "date": "Apr 08, 2019",
+  "price": 3.736
+ },
+ {
+  "date": "Apr 15, 2019",
+  "price": 3.935
+ },
+ {
+  "date": "Apr 22, 2019",
+  "price": 3.958
+ },
+ {
+  "date": "Apr 29, 2019",
+  "price": 4.032
+ },
+ {
+  "date": "May 06, 2019",
+  "price": 4.049
+ },
+ {
+  "date": "May 13, 2019",
+  "price": 4.017
+ },
+ {
+  "date": "May 20, 2019",
+  "price": 3.987
+ },
+ {
+  "date": "May 27, 2019",
+  "price": 3.992
+ },
+ {
+  "date": "Jun 03, 2019",
+  "price": 3.906
+ },
+ {
+  "date": "Jun 10, 2019",
+  "price": 3.813
+ },
+ {
+  "date": "Jun 17, 2019",
+  "price": 3.74
+ },
+ {
+  "date": "Jun 24, 2019",
+  "price": 3.669
+ },
+ {
+  "date": "Jul 01, 2019",
+  "price": 3.675
+ },
+ {
+  "date": "Jul 08, 2019",
+  "price": 3.683
+ },
+ {
+  "date": "Jul 15, 2019",
+  "price": 3.658
+ },
+ {
+  "date": "Jul 22, 2019",
+  "price": 3.621
+ },
+ {
+  "date": "Jul 29, 2019",
+  "price": 3.617
+ },
+ {
+  "date": "Aug 05, 2019",
+  "price": 3.599
+ },
+ {
+  "date": "Aug 12, 2019",
+  "price": 3.53
+ },
+ {
+  "date": "Aug 19, 2019",
+  "price": 3.514
+ },
+ {
+  "date": "Aug 26, 2019",
+  "price": 3.476
+ },
+ {
+  "date": "Sep 02, 2019",
+  "price": 3.51
+ },
+ {
+  "date": "Sep 09, 2019",
+  "price": 3.497
+ },
+ {
+  "date": "Sep 16, 2019",
+  "price": 3.499
+ },
+ {
+  "date": "Sep 23, 2019",
+  "price": 3.655
+ },
+ {
+  "date": "Sep 30, 2019",
+  "price": 3.963
+ },
+ {
+  "date": "Oct 07, 2019",
+  "price": 4.1
+ },
+ {
+  "date": "Oct 14, 2019",
+  "price": 4.123
+ },
+ {
+  "date": "Oct 21, 2019",
+  "price": 4.072
+ },
+ {
+  "date": "Oct 28, 2019",
+  "price": 3.972
+ },
+ {
+  "date": "Nov 04, 2019",
+  "price": 3.993
+ },
+ {
+  "date": "Nov 11, 2019",
+  "price": 3.957
+ },
+ {
+  "date": "Nov 18, 2019",
+  "price": 3.852
+ },
+ {
+  "date": "Nov 25, 2019",
+  "price": 3.773
+ },
+ {
+  "date": "Dec 02, 2019",
+  "price": 3.733
+ },
+ {
+  "date": "Dec 09, 2019",
+  "price": 3.599
+ },
+ {
+  "date": "Dec 16, 2019",
+  "price": 3.527
+ },
+ {
+  "date": "Dec 23, 2019",
+  "price": 3.496
+ },
+ {
+  "date": "Dec 30, 2019",
+  "price": 3.475
+ },
+ {
+  "date": "Jan 06, 2020",
+  "price": 3.462
+ },
+ {
+  "date": "Jan 13, 2020",
+  "price": 3.452
+ },
+ {
+  "date": "Jan 20, 2020",
+  "price": 3.447
+ },
+ {
+  "date": "Jan 27, 2020",
+  "price": 3.445
+ },
+ {
+  "date": "Feb 03, 2020",
+  "price": 3.451
+ },
+ {
+  "date": "Feb 10, 2020",
+  "price": 3.425
+ },
+ {
+  "date": "Feb 17, 2020",
+  "price": 3.407
+ },
+ {
+  "date": "Feb 24, 2020",
+  "price": 3.389
+ },
+ {
+  "date": "Mar 02, 2020",
+  "price": 3.391
+ },
+ {
+  "date": "Mar 09, 2020",
+  "price": 3.358
+ },
+ {
+  "date": "Mar 16, 2020",
+  "price": 3.23
+ },
+ {
+  "date": "Mar 23, 2020",
+  "price": 3.064
+ },
+ {
+  "date": "Mar 30, 2020",
+  "price": 2.961
+ },
+ {
+  "date": "Apr 06, 2020",
+  "price": 2.924
+ },
+ {
+  "date": "Apr 13, 2020",
+  "price": 2.848
+ },
+ {
+  "date": "Apr 20, 2020",
+  "price": 2.786
+ },
+ {
+  "date": "Apr 27, 2020",
+  "price": 2.725
+ },
+ {
+  "date": "May 04, 2020",
+  "price": 2.735
+ },
+ {
+  "date": "May 11, 2020",
+  "price": 2.745
+ },
+ {
+  "date": "May 18, 2020",
+  "price": 2.777
+ },
+ {
+  "date": "May 25, 2020",
+  "price": 2.862
+ },
+ {
+  "date": "Jun 01, 2020",
+  "price": 2.891
+ },
+ {
+  "date": "Jun 08, 2020",
+  "price": 2.926
+ },
+ {
+  "date": "Jun 15, 2020",
+  "price": 2.968
+ },
+ {
+  "date": "Jun 22, 2020",
+  "price": 2.991
+ },
+ {
+  "date": "Jun 29, 2020",
+  "price": 3.021
+ },
+ {
+  "date": "Jul 06, 2020",
+  "price": 3.05
+ },
+ {
+  "date": "Jul 13, 2020",
+  "price": 3.092
+ },
+ {
+  "date": "Jul 20, 2020",
+  "price": 3.102
+ },
+ {
+  "date": "Jul 27, 2020",
+  "price": 3.156
+ },
+ {
+  "date": "Aug 03, 2020",
+  "price": 3.188
+ },
+ {
+  "date": "Aug 10, 2020",
+  "price": 3.176
+ },
+ {
+  "date": "Aug 17, 2020",
+  "price": 3.2
+ },
+ {
+  "date": "Aug 24, 2020",
+  "price": 3.239
+ },
+ {
+  "date": "Aug 31, 2020",
+  "price": 3.228
+ },
+ {
+  "date": "Sep 07, 2020",
+  "price": 3.232
+ },
+ {
+  "date": "Sep 14, 2020",
+  "price": 3.238
+ },
+ {
+  "date": "Sep 21, 2020",
+  "price": 3.208
+ },
+ {
+  "date": "Sep 28, 2020",
+  "price": 3.203
+ },
+ {
+  "date": "Oct 05, 2020",
+  "price": 3.208
+ },
+ {
+  "date": "Oct 12, 2020",
+  "price": 3.193
+ },
+ {
+  "date": "Oct 19, 2020",
+  "price": 3.18
+ },
+ {
+  "date": "Oct 26, 2020",
+  "price": 3.199
+ },
+ {
+  "date": "Nov 02, 2020",
+  "price": 3.182
+ },
+ {
+  "date": "Nov 09, 2020",
+  "price": 3.188
+ },
+ {
+  "date": "Nov 16, 2020",
+  "price": 3.185
+ },
+ {
+  "date": "Nov 23, 2020",
+  "price": 3.171
+ },
+ {
+  "date": "Nov 30, 2020",
+  "price": 3.178
+ },
+ {
+  "date": "Dec 07, 2020",
+  "price": 3.197
+ },
+ {
+  "date": "Dec 14, 2020",
+  "price": 3.195
+ },
+ {
+  "date": "Dec 21, 2020",
+  "price": 3.211
+ },
+ {
+  "date": "Dec 28, 2020",
+  "price": 3.232
+ },
+ {
+  "date": "Jan 04, 2021",
+  "price": 3.244
+ },
+ {
+  "date": "Jan 11, 2021",
+  "price": 3.281
+ },
+ {
+  "date": "Jan 18, 2021",
+  "price": 3.331
+ },
+ {
+  "date": "Jan 25, 2021",
+  "price": 3.348
+ },
+ {
+  "date": "Feb 01, 2021",
+  "price": 3.341
+ },
+ {
+  "date": "Feb 08, 2021",
+  "price": 3.349
+ },
+ {
+  "date": "Feb 15, 2021",
+  "price": 3.394
+ },
+ {
+  "date": "Feb 22, 2021",
+  "price": 3.49
+ },
+ {
+  "date": "Mar 01, 2021",
+  "price": 3.587
+ },
+ {
+  "date": "Mar 08, 2021",
+  "price": 3.667
+ },
+ {
+  "date": "Mar 15, 2021",
+  "price": 3.821
+ },
+ {
+  "date": "Mar 22, 2021",
+  "price": 3.836
+ },
+ {
+  "date": "Mar 29, 2021",
+  "price": 3.861
+ },
+ {
+  "date": "Apr 05, 2021",
+  "price": 3.876
+ },
+ {
+  "date": "Apr 12, 2021",
+  "price": 3.878
+ },
+ {
+  "date": "Apr 19, 2021",
+  "price": 3.922
+ },
+ {
+  "date": "Apr 26, 2021",
+  "price": 3.95
+ },
+ {
+  "date": "May 03, 2021",
+  "price": 4.013
+ },
+ {
+  "date": "May 10, 2021",
+  "price": 4.082
+ },
+ {
+  "date": "May 17, 2021",
+  "price": 4.089
+ },
+ {
+  "date": "May 24, 2021",
+  "price": 4.123
+ },
+ {
+  "date": "May 31, 2021",
+  "price": 4.166
+ },
+ {
+  "date": "Jun 07, 2021",
+  "price": 4.204
+ },
+ {
+  "date": "Jun 14, 2021",
+  "price": 4.227
+ },
+ {
+  "date": "Jun 21, 2021",
+  "price": 4.212
+ },
+ {
+  "date": "Jun 28, 2021",
+  "price": 4.242
+ },
+ {
+  "date": "Jul 05, 2021",
+  "price": 4.228
+ },
+ {
+  "date": "Jul 12, 2021",
+  "price": 4.264
+ },
+ {
+  "date": "Jul 19, 2021",
+  "price": 4.286
+ },
+ {
+  "date": "Jul 26, 2021",
+  "price": 4.262
+ },
+ {
+  "date": "Aug 02, 2021",
+  "price": 4.322
+ },
+ {
+  "date": "Aug 09, 2021",
+  "price": 4.354
+ },
+ {
+  "date": "Aug 16, 2021",
+  "price": 4.388
+ },
+ {
+  "date": "Aug 23, 2021",
+  "price": 4.348
+ },
+ {
+  "date": "Aug 30, 2021",
+  "price": 4.327
+ },
+ {
+  "date": "Sep 06, 2021",
+  "price": 4.326
+ },
+ {
+  "date": "Sep 13, 2021",
+  "price": 4.339
+ },
+ {
+  "date": "Sep 20, 2021",
+  "price": 4.333
+ },
+ {
+  "date": "Sep 27, 2021",
+  "price": 4.322
+ },
+ {
+  "date": "Oct 04, 2021",
+  "price": 4.389
+ },
+ {
+  "date": "Oct 11, 2021",
+  "price": 4.406
+ },
+ {
+  "date": "Oct 18, 2021",
+  "price": 4.496
+ },
+ {
+  "date": "Oct 25, 2021",
+  "price": 4.578
+ },
+ {
+  "date": "Nov 01, 2021",
+  "price": 4.659
+ },
+ {
+  "date": "Nov 08, 2021",
+  "price": 4.701
+ },
+ {
+  "date": "Nov 15, 2021",
+  "price": 4.716
+ },
+ {
+  "date": "Nov 22, 2021",
+  "price": 4.716
+ },
+ {
+  "date": "Nov 29, 2021",
+  "price": 4.697
+ },
+ {
+  "date": "Dec 06, 2021",
+  "price": 4.688
+ },
+ {
+  "date": "Dec 13, 2021",
+  "price": 4.657
+ },
+ {
+  "date": "Dec 20, 2021",
+  "price": 4.647
+ },
+ {
+  "date": "Dec 27, 2021",
+  "price": 4.634
+ },
+ {
+  "date": "Jan 03, 2022",
+  "price": 4.645
+ },
+ {
+  "date": "Jan 10, 2022",
+  "price": 4.645
+ },
+ {
+  "date": "Jan 17, 2022",
+  "price": 4.642
+ },
+ {
+  "date": "Jan 24, 2022",
+  "price": 4.626
+ },
+ {
+  "date": "Jan 31, 2022",
+  "price": 4.617
+ },
+ {
+  "date": "Feb 07, 2022",
+  "price": 4.627
+ },
+ {
+  "date": "Feb 14, 2022",
+  "price": 4.673
+ },
+ {
+  "date": "Feb 21, 2022",
+  "price": 4.725
+ },
+ {
+  "date": "Feb 28, 2022",
+  "price": 4.789
+ },
+ {
+  "date": "Mar 07, 2022",
+  "price": 5.277
+ },
+ {
+  "date": "Mar 14, 2022",
+  "price": 5.697
+ },
+ {
+  "date": "Mar 21, 2022",
+  "price": 5.766
+ },
+ {
+  "date": "Mar 28, 2022",
+  "price": 5.789
+ },
+ {
+  "date": "Apr 04, 2022",
+  "price": 5.748
+ },
+ {
+  "date": "Apr 11, 2022",
+  "price": 5.634
+ },
+ {
+  "date": "Apr 18, 2022",
+  "price": 5.56
+ },
+ {
+  "date": "Apr 25, 2022",
+  "price": 5.556
+ },
+ {
+  "date": "May 02, 2022",
+  "price": 5.557
+ },
+ {
+  "date": "May 09, 2022",
+  "price": 5.77
+ },
+ {
+  "date": "May 16, 2022",
+  "price": 5.921
+ },
+ {
+  "date": "May 23, 2022",
+  "price": 6.042
+ },
+ {
+  "date": "May 30, 2022",
+  "price": 6.155
+ },
+ {
+  "date": "Jun 06, 2022",
+  "price": 6.335
+ },
+ {
+  "date": "Jun 13, 2022",
+  "price": 6.384
+ },
+ {
+  "date": "Jun 20, 2022",
+  "price": 6.283
+ },
+ {
+  "date": "Jun 27, 2022",
+  "price": 6.19
+ },
+ {
+  "date": "Jul 04, 2022",
+  "price": 6.114
+ },
+ {
+  "date": "Jul 11, 2022",
+  "price": 5.934
+ },
+ {
+  "date": "Jul 18, 2022",
+  "price": 5.804
+ },
+ {
+  "date": "Jul 25, 2022",
+  "price": 5.703
+ },
+ {
+  "date": "Aug 01, 2022",
+  "price": 5.599
+ },
+ {
+  "date": "Aug 08, 2022",
+  "price": 5.454
+ },
+ {
+  "date": "Aug 15, 2022",
+  "price": 5.445
+ },
+ {
+  "date": "Aug 22, 2022",
+  "price": 5.425
+ },
+ {
+  "date": "Aug 29, 2022",
+  "price": 5.19
+ },
+ {
+  "date": "Sep 05, 2022",
+  "price": 5.158
+ },
+ {
+  "date": "Sep 12, 2022",
+  "price": 5.378
+ },
+ {
+  "date": "Sep 19, 2022",
+  "price": 5.388
+ },
+ {
+  "date": "Sep 26, 2022",
+  "price": 5.778
+ },
+ {
+  "date": "Oct 03, 2022",
+  "price": 6.359
+ },
+ {
+  "date": "Oct 10, 2022",
+  "price": 6.22
+ },
+ {
+  "date": "Oct 17, 2022",
+  "price": 5.993
+ },
+ {
+  "date": "Oct 24, 2022",
+  "price": 5.58
+ }
+]
+}

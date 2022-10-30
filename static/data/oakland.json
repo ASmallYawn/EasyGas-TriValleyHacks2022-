@@ -1,0 +1,4130 @@
+[{
+  "title": "Grab & Go Mart Valero",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1725 Park St, Alameda, CA 94501, United States",
+  "locatedIn": null,
+  "neighborhood": "1725 Park St",
+  "street": "1725 Park St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ96+H8 Alameda, California, USA",
+  "website": "https://www.valero.com/en-us/ProductsAndServices/Consumers/StoreLocator",
+  "phone": "+1 510-522-6813",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.76891,
+    "lng": -122.2392336
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 3,
+  "placeId": "ChIJOetV75SGj4ARIeF0S_TTOm4",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "7942893939012722977",
+  "url": "https://www.google.com/maps/place/Grab+%26+Go+Mart+Valero/@37.76891,-122.2392336,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8694ef55eb39:0x6e3ad3f44b74e121!8m2!3d37.76891!4d-122.2392336?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:02.206Z",
+  "reviewsCount": 85,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 5,
+    "threeStar": 13,
+    "fourStar": 21,
+    "fiveStar": 41
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.40",
+      "updatedAt": "2022-10-28T19:04:06.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.4,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.60",
+      "updatedAt": "2022-10-28T19:04:06.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-28T19:04:06.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.30",
+      "updatedAt": "2022-10-27T10:14:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "ARCO",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1260 Park St, Alameda, CA 94501, United States",
+  "locatedIn": null,
+  "neighborhood": "1260 Park St",
+  "street": "1260 Park St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ64+V8 Alameda, California, USA",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "+1 510-522-5100",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7621951,
+    "lng": -122.2442463
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 4,
+  "placeId": "ChIJ129Yvb2Gj4ARBswo2yTTvoA",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9277084437678967814",
+  "url": "https://www.google.com/maps/place/ARCO/@37.7621951,-122.2442463,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86bdbd586fd7:0x80bed324db28cc06!8m2!3d37.7621951!4d-122.2442463?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:02.303Z",
+  "reviewsCount": 132,
+  "reviewsDistribution": {
+    "oneStar": 15,
+    "twoStar": 3,
+    "threeStar": 23,
+    "fourStar": 28,
+    "fiveStar": 63
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.04",
+      "updatedAt": "2022-10-29T08:32:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.04,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.18",
+      "updatedAt": "2022-10-29T07:36:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.18,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.32",
+      "updatedAt": "2022-10-29T07:36:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.32,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "285 Hegenberger Rd, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "285 Hegenberger Rd",
+  "street": "285 Hegenberger Rd",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRM2+8G Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008095-285-hegenberger-rd",
+  "phone": "+1 510-568-5191",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7333563,
+    "lng": -122.1987292
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.1,
+  "isAdvertisement": false,
+  "rank": 20,
+  "placeId": "ChIJqzn4lKKFj4ARwTaRfXcnZ3k",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "8748004195351738049",
+  "url": "https://www.google.com/maps/place/Shell/@37.7333563,-122.1987292,17z/data=!3m1!4b1!4m5!3m4!1s0x808f85a294f839ab:0x796727777d9136c1!8m2!3d37.7333638!4d-122.1987544?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:11.684Z",
+  "reviewsCount": 98,
+  "reviewsDistribution": {
+    "oneStar": 27,
+    "twoStar": 4,
+    "threeStar": 25,
+    "fourStar": 17,
+    "fiveStar": 25
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-27T10:18:36.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.21",
+      "updatedAt": "2022-10-28T14:04:45.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.21,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Quik Stop",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "2400 Fruitvale Ave, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "2400 Fruitvale Ave",
+  "street": "2400 Fruitvale Ave",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQPH+QF Oakland, California, USA",
+  "website": "http://www.quikstop.com/",
+  "phone": "+1 510-436-6575",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7869873,
+    "lng": -122.2213287
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 61,
+  "placeId": "ChIJh8lmXfiGj4ARV17RPGcRzOU",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store"
+  ],
+  "cid": "16558629065034128983",
+  "url": "https://www.google.com/maps/place/Quik+Stop/@37.7869873,-122.2213287,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86f85d66c987:0xe5cc11673cd15e57!8m2!3d37.7869873!4d-122.2213287?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:41.189Z",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 2,
+    "fourStar": 5,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.00",
+      "updatedAt": "2022-10-28T11:26:17.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.20",
+      "updatedAt": "2022-10-28T11:26:17.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.2,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.40",
+      "updatedAt": "2022-10-28T11:26:17.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.4,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "ARCO",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "889 W Grand Ave, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "889 W Grand Ave",
+  "street": "889 W Grand Ave",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP7C+HJ Oakland, California, USA",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "+1 510-465-4450",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8139973,
+    "lng": -122.2784377
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.7,
+  "isAdvertisement": false,
+  "rank": 60,
+  "placeId": "ChIJc--7IPGBj4AR5YQ71SQml4Y",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9698262262203778277",
+  "url": "https://www.google.com/maps/place/ARCO/@37.8139973,-122.2784377,17z/data=!3m1!4b1!4m5!3m4!1s0x808f81f120bbef73:0x86972624d53b84e5!8m2!3d37.8139666!4d-122.2783624?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:49.383Z",
+  "reviewsCount": 188,
+  "reviewsDistribution": {
+    "oneStar": 24,
+    "twoStar": 8,
+    "threeStar": 43,
+    "fourStar": 33,
+    "fiveStar": 80
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-29T08:50:34.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T06:29:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.60",
+      "updatedAt": "2022-10-29T06:29:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.30",
+      "updatedAt": "2022-10-29T06:29:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Coast Guard Exchange",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Store",
+  "address": "Coast Guard Island bldg, 22, Alameda, CA 94501, United States",
+  "locatedIn": "Coast Guard Island Alameda",
+  "neighborhood": "Coast Guard Island bldg, 22",
+  "street": "Coast Guard Island bldg, 22",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "CA",
+  "countryCode": "US",
+  "plusCode": "QQJ2+6W Alameda, California, USA",
+  "website": "https://shopcgx.com/",
+  "phone": "+1 510-437-3165",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7805549,
+    "lng": -122.2476354
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.6,
+  "isAdvertisement": false,
+  "rank": 59,
+  "placeId": "ChIJQ4twDdyGj4ARArbDmoOWz4c",
+  "categories": [
+    "Gas station",
+    "Store"
+  ],
+  "cid": "9786206007280776706",
+  "url": "https://www.google.com/maps/place/Coast+Guard+Exchange/@37.7805549,-122.2476354,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86dc0d708b43:0x87cf96839ac3b602!8m2!3d37.7805549!4d-122.2476354?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:28:57.030Z",
+  "reviewsCount": 89,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 1,
+    "threeStar": 8,
+    "fourStar": 8,
+    "fiveStar": 70
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "GO! GAS & FOOD",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2240 Mountain Blvd, Oakland, CA 94611, United States",
+  "locatedIn": null,
+  "neighborhood": "2240 Mountain Blvd",
+  "street": "2240 Mountain Blvd",
+  "city": "Oakland",
+  "postalCode": "94611",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RQFR+6X Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-482-1100",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8230335,
+    "lng": -122.2075975
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 58,
+  "placeId": "ChIJ0x5ltJCHj4ARBTu9QBbbe4g",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9834695099915516677",
+  "url": "https://www.google.com/maps/place/GO!+GAS+%26+FOOD/@37.8230335,-122.2075975,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8790b4651ed3:0x887bdb1640bd3b05!8m2!3d37.8230335!4d-122.2075975?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:05.373Z",
+  "reviewsCount": 238,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 7,
+    "threeStar": 23,
+    "fourStar": 73,
+    "fiveStar": 130
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-29T08:16:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T08:16:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-29T08:16:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Mobil",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "6563 San Leandro St, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "6563 San Leandro St",
+  "street": "6563 San Leandro St",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ4X+PF Oakland, California, USA",
+  "website": "https://www.mobil.com/en/",
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7568074,
+    "lng": -122.2013408
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 57,
+  "placeId": "ChIJrcPCPtyFj4AReW4TxQqdAsE",
+  "categories": [
+    "Gas station",
+    "Convenience store",
+    "Tobacco shop"
+  ],
+  "cid": "13907851268855131769",
+  "url": "https://www.google.com/maps/place/Mobil/@37.7568074,-122.2013408,17z/data=!3m1!4b1!4m5!3m4!1s0x808f85dc3ec2c3ad:0xc1029d0ac5136e79!8m2!3d37.7567894!4d-122.2013807?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:12.974Z",
+  "reviewsCount": 13,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 7
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "6550 Moraga Ave, Oakland, CA 94611, United States",
+  "locatedIn": null,
+  "neighborhood": "6550 Moraga Ave",
+  "street": "6550 Moraga Ave",
+  "city": "Oakland",
+  "postalCode": "94611",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RQGR+64 Oakland, California, USA",
+  "website": "https://www.chevronwithtechron.com/en_us/home/find-a-station.html?/station/6550-MORAGA-AVE-OAKLAND-CA-94611-id91740",
+  "phone": "+1 510-339-1064",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8255755,
+    "lng": -122.2097316
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.1,
+  "isAdvertisement": false,
+  "rank": 56,
+  "placeId": "ChIJxcb9lZqHj4ARfTiBiQeYA0o",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "5333273541875939453",
+  "url": "https://www.google.com/maps/place/Chevron/@37.8255755,-122.2097316,17z/data=!3m1!4b1!4m5!3m4!1s0x808f879a95fdc6c5:0x4a0398078981387d!8m2!3d37.8255755!4d-122.2097316?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:21.485Z",
+  "reviewsCount": 15,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 6
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.98",
+      "updatedAt": "2022-10-29T08:58:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.98,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.18",
+      "updatedAt": "2022-10-29T04:49:47.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.18,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.28",
+      "updatedAt": "2022-10-29T08:31:18.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.28,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "449 Hegenberger Rd, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "449 Hegenberger Rd",
+  "street": "449 Hegenberger Rd",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRP2+MX Oakland, California, USA",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "+1 510-635-1730",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7366467,
+    "lng": -122.1975077
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 55,
+  "placeId": "ChIJo3pN35eFj4AR5WfaSTexT1Y",
+  "categories": [
+    "Gas station",
+    "Car wash"
+  ],
+  "cid": "6219384461442312165",
+  "url": "https://www.google.com/maps/place/76/@37.7366467,-122.1975077,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8597df4d7aa3:0x564fb13749da67e5!8m2!3d37.7366881!4d-122.1974584?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:30.272Z",
+  "reviewsCount": 305,
+  "reviewsDistribution": {
+    "oneStar": 30,
+    "twoStar": 20,
+    "threeStar": 66,
+    "fourStar": 62,
+    "fiveStar": 127
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.10",
+      "updatedAt": "2022-10-29T09:20:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.1,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-27T15:35:58.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-28T13:52:01.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.30",
+      "updatedAt": "2022-10-21T10:56:44.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3750 International Blvd, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "3750 International Blvd",
+  "street": "3750 International Blvd",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQGH+2X Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008091-3750-international-blvd",
+  "phone": "+1 510-866-2325",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7751078,
+    "lng": -122.2201076
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 54,
+  "placeId": "ChIJjeqSH2CGj4ARa4l_62ZgW5Y",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Convenience store",
+    "Restaurant"
+  ],
+  "cid": "10834359323723794795",
+  "url": "https://www.google.com/maps/place/Shell/@37.7751078,-122.2201076,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86601f92ea8d:0x965b6066eb7f896b!8m2!3d37.7751078!4d-122.2201076?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:39.002Z",
+  "reviewsCount": 58,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 6,
+    "fourStar": 13,
+    "fiveStar": 31
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.35",
+      "updatedAt": "2022-10-29T06:13:06.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.35,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-28T04:20:57.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.75",
+      "updatedAt": "2022-10-28T14:46:13.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.75,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "191 98th Ave, Oakland, CA 94603, United States",
+  "locatedIn": null,
+  "neighborhood": "191 98th Ave",
+  "street": "191 98th Ave",
+  "city": "Oakland",
+  "postalCode": "94603",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRH4+XC Oakland, California, USA",
+  "website": "https://www.chevronwithtechron.com/station",
+  "phone": "+1 510-553-9200",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7298865,
+    "lng": -122.193917
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.4,
+  "isAdvertisement": false,
+  "rank": 53,
+  "placeId": "ChIJewz65Z6Fj4ARUzTJxxDv7tg",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump"
+  ],
+  "cid": "15631694211999937619",
+  "url": "https://www.google.com/maps/place/Chevron/@37.7298865,-122.193917,17z/data=!3m1!4b1!4m5!3m4!1s0x808f859ee5fa0c7b:0xd8eeef10c7c93453!8m2!3d37.7298718!4d-122.1939707?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:47.079Z",
+  "reviewsCount": 30,
+  "reviewsDistribution": {
+    "oneStar": 17,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 3,
+    "fiveStar": 7
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-29T08:56:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.36",
+      "updatedAt": "2022-10-28T09:58:18.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.36,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.50",
+      "updatedAt": "2022-10-29T04:06:13.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.5,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.90",
+      "updatedAt": "2022-10-29T08:29:34.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.9,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Gas Station",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "8451 San Leandro St, Oakland, CA 94621, United States",
+  "locatedIn": "Pick-n-Pull",
+  "neighborhood": "8451 San Leandro St",
+  "street": "8451 San Leandro St",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRW6+R2 Oakland, California, USA",
+  "website": null,
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7470769,
+    "lng": -122.1899935
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 52,
+  "placeId": "ChIJZSsGy-yFj4AR4tlaE-i7_P8",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "18445824779234236898",
+  "url": "https://www.google.com/maps/place/Gas+Station/@37.7470769,-122.1899935,17z/data=!3m1!4b1!4m5!3m4!1s0x808f85eccb062b65:0xfffcbbe8135ad9e2!8m2!3d37.7470769!4d-122.1899935?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:29:54.776Z",
+  "reviewsCount": 65,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 14,
+    "fourStar": 10,
+    "fiveStar": 40
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Flyers",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "8515 San Leandro St, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "8515 San Leandro St",
+  "street": "8515 San Leandro St",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRW6+GC Oakland, California, USA",
+  "website": "https://www.flyersenergy.com/locations/?zip=",
+  "phone": "+1 800-899-2376",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7463177,
+    "lng": -122.1889059
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 51,
+  "placeId": "ChIJAQDEIJOFj4ARFQX0L-vypv8",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "18421678417741350165",
+  "url": "https://www.google.com/maps/place/Flyers/@37.7463177,-122.1889059,17z/data=!3m1!4b1!4m5!3m4!1s0x808f859320c40001:0xffa6f2eb2ff40515!8m2!3d37.7463165!4d-122.1889044?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:02.666Z",
+  "reviewsCount": 6,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Speedway Express",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3400 San Pablo Ave, Oakland, CA 94608, United States",
+  "locatedIn": null,
+  "neighborhood": "3400 San Pablo Ave",
+  "street": "3400 San Pablo Ave",
+  "city": "Oakland",
+  "postalCode": "94608",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RPGC+5V Oakland, California, USA",
+  "website": "https://www.speedway.com/locations/CA/Oakland/3400-SAN-PABLO-AVE",
+  "phone": "+1 510-594-1256",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8254987,
+    "lng": -122.277821
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3,
+  "isAdvertisement": false,
+  "rank": 50,
+  "placeId": "ChIJW5wpDBB-hYARsKC4JhARWB4",
+  "categories": [
+    "Gas station",
+    "Convenience store"
+  ],
+  "cid": "2186516380155158704",
+  "url": "https://www.google.com/maps/place/Speedway+Express/@37.8254987,-122.277821,17z/data=!3m1!4b1!4m5!3m4!1s0x80857e100c299c5b:0x1e58111026b8a0b0!8m2!3d37.8254671!4d-122.2778323?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:10.397Z",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 2,
+    "fiveStar": 2
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T05:57:48.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-28T20:35:10.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.70",
+      "updatedAt": "2022-10-28T20:35:10.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Golden Gate Petroleum",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1107 5th St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "1107 5th St",
+  "street": "1107 5th St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP26+RP Oakland, California, USA",
+  "website": "https://www.goldengategas.com/location/golden-gate-oakland-port/",
+  "phone": "+1 510-836-0774",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8021239,
+    "lng": -122.2882277
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.5,
+  "isAdvertisement": false,
+  "rank": 49,
+  "placeId": "ChIJVVXh4peAj4ARMJ4-J8K9zXQ",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "8416591920205045296",
+  "url": "https://www.google.com/maps/place/Golden+Gate+Petroleum/@37.8021239,-122.2882277,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8097e2e15555:0x74cdbdc2273e9e30!8m2!3d37.8020997!4d-122.2882363?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:18.274Z",
+  "reviewsCount": 13,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 5
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Mobil",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "845 66th Ave, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "845 66th Ave",
+  "street": "845 66th Ave",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ4X+QC Oakland, California, USA",
+  "website": "https://www.exxon.com/en/find-station/MOBIL-OAKLAND-CA-ANVENTURESOAKLANDINC-200321136?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "phone": "+1 510-638-4740",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7568966,
+    "lng": -122.2013975
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 48,
+  "placeId": "ChIJqQI4a9yFj4ARoOemPWkh5wQ",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "353287831661504416",
+  "url": "https://www.google.com/maps/place/Mobil/@37.7568966,-122.2013975,17z/data=!3m1!4b1!4m5!3m4!1s0x808f85dc6b3802a9:0x4e721693da6e7a0!8m2!3d37.7568966!4d-122.2013975?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:26.597Z",
+  "reviewsCount": 213,
+  "reviewsDistribution": {
+    "oneStar": 13,
+    "twoStar": 10,
+    "threeStar": 52,
+    "fourStar": 52,
+    "fiveStar": 86
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.60",
+      "updatedAt": "2022-10-29T06:03:24.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-28T22:29:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T22:29:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Eagle Gas",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "4301 San Leandro St, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "4301 San Leandro St",
+  "street": "4301 San Leandro St",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQCM+45 Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-536-8143",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7703127,
+    "lng": -122.2171012
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.6,
+  "isAdvertisement": false,
+  "rank": 47,
+  "placeId": "ChIJ49ZDs2OGj4AR5Tv6CLdPHzk",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "4116096231988149221",
+  "url": "https://www.google.com/maps/place/Eagle+Gas/@37.7703127,-122.2171012,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8663b343d6e3:0x391f4fb708fa3be5!8m2!3d37.7703127!4d-122.2171012?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:34.306Z",
+  "reviewsCount": 68,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 10,
+    "threeStar": 21,
+    "fourStar": 8,
+    "fiveStar": 25
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-28T19:07:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.40",
+      "updatedAt": "2022-10-28T19:07:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.4,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-28T19:07:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T19:07:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "540 Hegenberger Rd, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "540 Hegenberger Rd",
+  "street": "540 Hegenberger Rd",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRV3+MP Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008098-540-hegenberger-rd",
+  "phone": "+1 510-635-8623",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7442135,
+    "lng": -122.1957074
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.7,
+  "isAdvertisement": false,
+  "rank": 46,
+  "placeId": "ChIJ9yiVPpWFj4ARdfBW5FUN1y0",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "3303123514253832309",
+  "url": "https://www.google.com/maps/place/Shell/@37.7442135,-122.1957074,17z/data=!3m1!4b1!4m5!3m4!1s0x808f85953e9528f7:0x2dd70d55e456f075!8m2!3d37.7442135!4d-122.1957074?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:42.675Z",
+  "reviewsCount": 65,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 7,
+    "threeStar": 9,
+    "fourStar": 8,
+    "fiveStar": 32
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.10",
+      "updatedAt": "2022-10-29T08:38:47.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.1,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T01:10:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-29T09:24:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-29T01:41:52.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Rinehart Oil Inc",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1107 5th St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "1107 5th St",
+  "street": "1107 5th St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP26+RQ Oakland, California, USA",
+  "website": "http://pacificpride.com/",
+  "phone": "+1 707-462-8811",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8021005,
+    "lng": -122.2880627
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.6,
+  "isAdvertisement": false,
+  "rank": 45,
+  "placeId": "ChIJNb_iApiAj4AR4KCKYRcpoNQ",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "15321291112711889120",
+  "url": "https://www.google.com/maps/place/Rinehart+Oil+Inc/@37.8021005,-122.2880627,17z/data=!3m1!4b1!4m5!3m4!1s0x808f809802e2bf35:0xd4a02917618aa0e0!8m2!3d37.8021005!4d-122.2880627?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:50.581Z",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 1,
+    "fiveStar": 2
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Valero",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "4251 International Blvd, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "4251 International Blvd",
+  "street": "4251 International Blvd",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQCM+WR Oakland, California, USA",
+  "website": "https://ccc.valero.com/",
+  "phone": "+1 510-467-0090",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.77227,
+    "lng": -122.215422
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 44,
+  "placeId": "ChIJ0duu5mOGj4ARAAgNzjff_fI",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "17509396357059512320",
+  "url": "https://www.google.com/maps/place/Valero/@37.77227,-122.215422,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8663e6aedbd1:0xf2fddf37ce0d0800!8m2!3d37.77227!4d-122.215422?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:30:58.200Z",
+  "reviewsCount": 165,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 9,
+    "threeStar": 31,
+    "fourStar": 35,
+    "fiveStar": 80
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T05:54:08.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-28T22:29:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.90",
+      "updatedAt": "2022-10-28T22:29:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Jack London Square Fuel Dock",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2 Webster St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "2 Webster St",
+  "street": "2 Webster St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPVF+4W Oakland, California, USA",
+  "website": null,
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7928557,
+    "lng": -122.2751746
+  },
+  "permanentlyClosed": false,
+  "totalScore": null,
+  "isAdvertisement": false,
+  "rank": 43,
+  "placeId": "ChIJzToPgzCBj4AROc7oTf6lJKE",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "11611588250915360313",
+  "url": "https://www.google.com/maps/place/Jack+London+Square+Fuel+Dock/@37.7928557,-122.2751746,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8130830f3acd:0xa124a5fe4de8ce39!8m2!3d37.7928557!4d-122.2751746?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:06.399Z",
+  "reviewsCount": 0,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 0
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Quik Stop",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "3132 Beaumont Ave, Oakland, CA 94602, United States",
+  "locatedIn": null,
+  "neighborhood": "3132 Beaumont Ave",
+  "street": "3132 Beaumont Ave",
+  "city": "Oakland",
+  "postalCode": "94602",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQXC+M8 Oakland, California, USA",
+  "website": "http://www.quikstop.com/",
+  "phone": "+1 510-535-1420",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7992411,
+    "lng": -122.2291322
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.2,
+  "isAdvertisement": false,
+  "rank": 42,
+  "placeId": "ChIJIdap_QSHj4ARH_3hXdUk14Y",
+  "categories": [
+    "Gas station",
+    "Convenience store",
+    "Grocery store"
+  ],
+  "cid": "9716275219896859935",
+  "url": "https://www.google.com/maps/place/Quik+Stop/@37.7992411,-122.2291322,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8704fda9d621:0x86d724d55de1fd1f!8m2!3d37.7992411!4d-122.2291322?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:14.865Z",
+  "reviewsCount": 26,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 3,
+    "threeStar": 2,
+    "fourStar": 5,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.38",
+      "updatedAt": "2022-10-29T09:17:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.38,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.58",
+      "updatedAt": "2022-10-29T09:17:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.58,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.78",
+      "updatedAt": "2022-10-29T09:17:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.78,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "TONY STAR GAS",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3609 International Blvd, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "3609 International Blvd",
+  "street": "3609 International Blvd",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQGH+37 Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-261-0444",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7752402,
+    "lng": -122.2217596
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 40,
+  "placeId": "ChIJJc-Iy4qGj4ARl1Txr6VOZik",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "2983158276707931287",
+  "url": "https://www.google.com/maps/place/TONY+STAR+GAS/@37.7752402,-122.2217596,17z/data=!3m1!4b1!4m5!3m4!1s0x808f868acb88cf25:0x29664ea5aff15497!8m2!3d37.7752402!4d-122.2217596?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:22.604Z",
+  "reviewsCount": 43,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 5,
+    "threeStar": 5,
+    "fourStar": 7,
+    "fiveStar": 24
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-28T22:27:41.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-28T22:27:41.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-28T22:27:41.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2142 E 12th St, Oakland, CA 94606, United States",
+  "locatedIn": null,
+  "neighborhood": "2142 E 12th St",
+  "street": "2142 E 12th St",
+  "city": "Oakland",
+  "postalCode": "94606",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQM6+MG Oakland, California, USA",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "+1 510-535-9845",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7841887,
+    "lng": -122.2387369
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 39,
+  "placeId": "ChIJ5UD0y-aGj4ARNWbkQDU9dHA",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "8103168928477636149",
+  "url": "https://www.google.com/maps/place/76/@37.7841887,-122.2387369,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86e6cbf440e5:0x70743d3540e46635!8m2!3d37.7841887!4d-122.2387369?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:30.772Z",
+  "reviewsCount": 96,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 5,
+    "threeStar": 19,
+    "fourStar": 23,
+    "fiveStar": 39
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.10",
+      "updatedAt": "2022-10-28T18:32:38.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.30",
+      "updatedAt": "2022-10-28T22:28:05.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.30",
+      "updatedAt": "2022-10-28T22:28:05.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.70",
+      "updatedAt": "2022-10-28T15:31:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Pit Stop Market",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Liquor store",
+  "address": "1601 Park St, Alameda, CA 94501, United States",
+  "locatedIn": null,
+  "neighborhood": "1601 Park St",
+  "street": "1601 Park St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ85+PM Alameda, California, USA",
+  "website": null,
+  "phone": "+1 510-523-7917",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7668115,
+    "lng": -122.2408415
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.5,
+  "isAdvertisement": false,
+  "rank": 38,
+  "placeId": "ChIJhyJnpJWGj4ARHO9B861as3A",
+  "categories": [
+    "Gas station",
+    "Liquor store",
+    "Grocery store"
+  ],
+  "cid": "8120934256236162844",
+  "url": "https://www.google.com/maps/place/Pit+Stop+Market/@37.7668115,-122.2408415,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8695a4672287:0x70b35aadf341ef1c!8m2!3d37.7668179!4d-122.2408534?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:38.761Z",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 12
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1201 The Alameda, Berkeley, CA 94709, United States",
+  "locatedIn": null,
+  "neighborhood": "1201 The Alameda",
+  "street": "1201 The Alameda",
+  "city": "Berkeley",
+  "postalCode": "94709",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "VPPG+46 Berkeley, California, USA",
+  "website": "http://www.chevronwithtechron.com/stations/station-finder.aspx",
+  "phone": "+1 510-524-1991",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8853002,
+    "lng": -122.2744641
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.7,
+  "isAdvertisement": false,
+  "rank": 37,
+  "placeId": "ChIJ16nira9-hYAR-aGdYAfwH2s",
+  "categories": [
+    "Gas station",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "7719152200812700153",
+  "url": "https://www.google.com/maps/place/Chevron/@37.8853002,-122.2744641,17z/data=!3m1!4b1!4m5!3m4!1s0x80857eafade2a9d7:0x6b1ff007609da1f9!8m2!3d37.8852873!4d-122.274493?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:46.412Z",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 4
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-28T08:37:59.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-28T10:09:20.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-28T08:37:59.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-28T08:37:59.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "GO! Gas & Food",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "720 High St, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "720 High St",
+  "street": "720 High St",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ9J+97 Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-534-8046",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7684486,
+    "lng": -122.2193445
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 36,
+  "placeId": "ChIJJVnKmmKGj4ARbQyABQgazKI",
+  "categories": [
+    "Gas station",
+    "Car wash",
+    "Restaurant"
+  ],
+  "cid": "11730779751147637869",
+  "url": "https://www.google.com/maps/place/GO!+Gas+%26+Food/@37.7684486,-122.2193445,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86629aca5925:0xa2cc1a0805800c6d!8m2!3d37.7684486!4d-122.2193445?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:31:54.298Z",
+  "reviewsCount": 1192,
+  "reviewsDistribution": {
+    "oneStar": 39,
+    "twoStar": 39,
+    "threeStar": 156,
+    "fourStar": 274,
+    "fiveStar": 684
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.00",
+      "updatedAt": "2022-10-29T09:27:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.20",
+      "updatedAt": "2022-10-29T09:27:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.2,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.40",
+      "updatedAt": "2022-10-29T09:27:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.4,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "All Star Gas & Diesel",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3820 San Leandro St, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "3820 San Leandro St",
+  "street": "3820 San Leandro St",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQFH+3J Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-842-3848",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7726521,
+    "lng": -122.22093
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 35,
+  "placeId": "ChIJV8zkXCqHj4ARf_d9zQpOmhQ",
+  "categories": [
+    "Gas station",
+    "Diesel fuel supplier",
+    "Food products supplier",
+    "Truck stop"
+  ],
+  "cid": "1484584835476223871",
+  "url": "https://www.google.com/maps/place/All+Star+Gas+%26+Diesel/@37.7726521,-122.22093,17z/data=!3m1!4b1!4m5!3m4!1s0x808f872a5ce4cc57:0x149a4e0acd7df77f!8m2!3d37.7726521!4d-122.22093?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:02.191Z",
+  "reviewsCount": 14,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 5,
+    "fiveStar": 6
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Arco",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3310 Park Blvd, Oakland, CA 94610, United States",
+  "locatedIn": "ampm",
+  "neighborhood": "3310 Park Blvd",
+  "street": "3310 Park Blvd",
+  "city": "Oakland",
+  "postalCode": "94610",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RQ38+74 Oakland, California, USA",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "+1 510-532-1716",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8031307,
+    "lng": -122.2346503
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 34,
+  "placeId": "ChIJs_9PBhGHj4ARIufkjjhAVoM",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9463822278625388322",
+  "url": "https://www.google.com/maps/place/Arco/@37.8031307,-122.2346503,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8711064fffb3:0x835640388ee4e722!8m2!3d37.8031759!4d-122.2346678?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:10.435Z",
+  "reviewsCount": 98,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 20,
+    "fourStar": 24,
+    "fiveStar": 46
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-29T06:29:24.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.60",
+      "updatedAt": "2022-10-29T06:29:24.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-29T06:29:24.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3200 Lakeshore Ave, Oakland, CA 94610, United States",
+  "locatedIn": null,
+  "neighborhood": "3200 Lakeshore Ave",
+  "street": "3200 Lakeshore Ave",
+  "city": "Oakland",
+  "postalCode": "94610",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RQ63+2R Oakland, California, USA",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "+1 510-893-1676",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8100562,
+    "lng": -122.2454482
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 33,
+  "placeId": "ChIJ24oDn0GHj4AR0Q_m9zBVwBc",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "1711461527206629329",
+  "url": "https://www.google.com/maps/place/76/@37.8100562,-122.2454482,17z/data=!3m1!4b1!4m5!3m4!1s0x808f87419f038adb:0x17c05530f7e60fd1!8m2!3d37.8100562!4d-122.2454482?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:18.883Z",
+  "reviewsCount": 98,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 5,
+    "threeStar": 19,
+    "fourStar": 24,
+    "fiveStar": 41
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-29T09:21:34.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.18",
+      "updatedAt": "2022-10-28T14:00:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.18,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.10",
+      "updatedAt": "2022-10-28T18:19:14.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "630 High St, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "630 High St",
+  "street": "630 High St",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ8H+XQ Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008097-630-high-st",
+  "phone": "+1 510-532-4455",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7674767,
+    "lng": -122.2205837
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 32,
+  "placeId": "ChIJudI3OYiGj4ARcIIFCr91idc",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "15531074253331202672",
+  "url": "https://www.google.com/maps/place/Shell/@37.7674767,-122.2205837,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86883937d2b9:0xd78975bf0a058270!8m2!3d37.7674767!4d-122.2205837?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:27.597Z",
+  "reviewsCount": 81,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 8,
+    "threeStar": 20,
+    "fourStar": 13,
+    "fiveStar": 36
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.30",
+      "updatedAt": "2022-10-29T09:19:08.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-29T09:10:20.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-29T09:10:20.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.10",
+      "updatedAt": "2022-10-29T09:10:20.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "800 Harrison St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "800 Harrison St",
+  "street": "800 Harrison St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPXJ+H3 Oakland, California, USA",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "+1 510-893-2356",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7989177,
+    "lng": -122.2698598
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.5,
+  "isAdvertisement": false,
+  "rank": 31,
+  "placeId": "ChIJa9l69bWAj4AR0p7nYgMu5YY",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9720225962828209874",
+  "url": "https://www.google.com/maps/place/76/@37.7989177,-122.2698598,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80b5f57ad96b:0x86e52e0362e79ed2!8m2!3d37.7989177!4d-122.2698598?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:35.797Z",
+  "reviewsCount": 97,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 14,
+    "threeStar": 17,
+    "fourStar": 23,
+    "fiveStar": 32
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.60",
+      "updatedAt": "2022-10-28T14:07:47.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.80",
+      "updatedAt": "2022-10-28T13:11:09.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.8,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$7.00",
+      "updatedAt": "2022-10-28T13:11:09.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "421 23rd avenue oakland Ca 94606",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "421 23rd Ave, Oakland, CA 94606, United States",
+  "locatedIn": "Dino Mart",
+  "neighborhood": "421 23rd Ave",
+  "street": "421 23rd Ave",
+  "city": "Oakland",
+  "postalCode": "94606",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQF7+M9 Oakland, California, USA",
+  "website": "https://42123rdavenueoaklandca94606.business.site/?utm_source=gmb&utm_medium=referral",
+  "phone": "+1 510-434-9901",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7742384,
+    "lng": -122.2365396
+  },
+  "permanentlyClosed": false,
+  "totalScore": 5,
+  "isAdvertisement": false,
+  "rank": 30,
+  "placeId": "ChIJhflMSSSHj4AR4mzb0aJAn-Y",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "16618072218070117602",
+  "url": "https://www.google.com/maps/place/421+23rd+avenue+oakland+Ca+94606/@37.7742384,-122.2365396,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8724494cf985:0xe69f40a2d1db6ce2!8m2!3d37.7742384!4d-122.2365396?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:43.454Z",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 1
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2120 Montana St, Oakland, CA 94602, United States",
+  "locatedIn": null,
+  "neighborhood": "2120 Montana St",
+  "street": "2120 Montana St",
+  "city": "Oakland",
+  "postalCode": "94602",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQXM+J6 Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-530-9234",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7991063,
+    "lng": -122.2169978
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.7,
+  "isAdvertisement": false,
+  "rank": 29,
+  "placeId": "ChIJtTVHs6uHj4AR1YV0V68idck",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "14516547110380537301",
+  "url": "https://www.google.com/maps/place/Shell/@37.7991063,-122.2169978,17z/data=!3m1!4b1!4m5!3m4!1s0x808f87abb34735b5:0xc97522af577485d5!8m2!3d37.7991063!4d-122.2169978?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:51.702Z",
+  "reviewsCount": 76,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 8,
+    "threeStar": 27,
+    "fourStar": 12,
+    "fiveStar": 26
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.40",
+      "updatedAt": "2022-10-28T09:38:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-29T08:56:16.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T08:31:22.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$7.00",
+      "updatedAt": "2022-10-28T09:52:52.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Sinclair",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "421 23rd Ave, Oakland, CA 94606, United States",
+  "locatedIn": null,
+  "neighborhood": "421 23rd Ave",
+  "street": "421 23rd Ave",
+  "city": "Oakland",
+  "postalCode": "94606",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQF7+H8 Oakland, California, USA",
+  "website": "https://www.sinclairoil.com/station/sinclair-421-23rd-ave-oakland-ca-94606?utm_source=google&utm_medium=yext",
+  "phone": "+1 510-434-9901",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7739465,
+    "lng": -122.2366252
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 28,
+  "placeId": "ChIJB1NuF3yHj4ARFDH6Y6mFvmA",
+  "categories": [
+    "Gas station",
+    "Convenience store"
+  ],
+  "cid": "6971156235789414676",
+  "url": "https://www.google.com/maps/place/Sinclair/@37.7739465,-122.2366252,17z/data=!3m1!4b1!4m5!3m4!1s0x808f877c176e5307:0x60be85a963fa3114!8m2!3d37.7739465!4d-122.2366252?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:32:58.922Z",
+  "reviewsCount": 29,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 2,
+    "threeStar": 2,
+    "fourStar": 5,
+    "fiveStar": 19
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.50",
+      "updatedAt": "2022-10-26T22:37:10.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.50",
+      "updatedAt": "2022-10-28T13:29:11.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.5,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Park Gas & Food",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1395 7th St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "1395 7th St",
+  "street": "1395 7th St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP34+WM Oakland, California, USA",
+  "website": null,
+  "phone": "+1 510-465-6569",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8047761,
+    "lng": -122.2933564
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 27,
+  "placeId": "ChIJX2T2DZmAj4AR_4d2CHhst3w",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "8986770844234975231",
+  "url": "https://www.google.com/maps/place/Park+Gas+%26+Food/@37.8047761,-122.2933564,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80990df6645f:0x7cb76c78087687ff!8m2!3d37.8047761!4d-122.2933564?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:08.582Z",
+  "reviewsCount": 92,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 3,
+    "threeStar": 20,
+    "fourStar": 16,
+    "fiveStar": 44
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-29T06:02:33.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.99",
+      "updatedAt": "2022-10-28T06:21:46.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.99,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Valero",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2200 E 12th St, Oakland, CA 94606, United States",
+  "locatedIn": null,
+  "neighborhood": "2200 E 12th St",
+  "street": "2200 E 12th St",
+  "city": "Oakland",
+  "postalCode": "94606",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQM6+GP Oakland, California, USA",
+  "website": "http://www.valero.com/",
+  "phone": "+1 510-535-1672",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7837624,
+    "lng": -122.2382127
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 26,
+  "placeId": "ChIJ-UsDx-aGj4ARL4bPT8x756M",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "11810544665244960303",
+  "url": "https://www.google.com/maps/place/Valero/@37.7837624,-122.2382127,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86e6c7034bf9:0xa3e77bcc4fcf862f!8m2!3d37.7837624!4d-122.2382127?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:17.465Z",
+  "reviewsCount": 133,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 6,
+    "threeStar": 34,
+    "fourStar": 34,
+    "fiveStar": 53
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-28T22:28:57.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T22:28:57.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-28T22:28:57.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3420 San Pablo Ave, Oakland, CA 94608, United States",
+  "locatedIn": null,
+  "neighborhood": "3420 San Pablo Ave",
+  "street": "3420 San Pablo Ave",
+  "city": "Oakland",
+  "postalCode": "94608",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RPGC+9R Oakland, California, USA",
+  "website": "https://www.chevronwithtechron.com/en_us/home/find-a-station.html?/station/3420-SAN-PABLO-AVE-OAKLAND-CA-946084234-id359814",
+  "phone": "+1 510-595-9396",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8259355,
+    "lng": -122.2778908
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.3,
+  "isAdvertisement": false,
+  "rank": 25,
+  "placeId": "ChIJNdcMEBB-hYARK0J6801A4Rk",
+  "categories": [
+    "Gas station",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "1864842424249631275",
+  "url": "https://www.google.com/maps/place/Chevron/@37.8259355,-122.2778908,17z/data=!3m1!4b1!4m5!3m4!1s0x80857e10100cd735:0x19e1404df37a422b!8m2!3d37.8259355!4d-122.2778908?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:25.573Z",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 16,
+    "twoStar": 3,
+    "threeStar": 0,
+    "fourStar": 4,
+    "fiveStar": 5
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.08",
+      "updatedAt": "2022-10-28T22:18:48.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.08,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.28",
+      "updatedAt": "2022-10-28T22:18:48.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.28,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.38",
+      "updatedAt": "2022-10-28T22:18:48.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.38,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.60",
+      "updatedAt": "2022-10-28T22:18:48.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.6,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "ARCO",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "566 Hegenberger Rd, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "566 Hegenberger Rd",
+  "street": "566 Hegenberger Rd",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRW3+2P Oakland, California, USA",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "+1 510-569-7561",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7450218,
+    "lng": -122.1956676
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 24,
+  "placeId": "ChIJTb36NpWFj4AR4jnnV4cGu4w",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "10140706164319926754",
+  "url": "https://www.google.com/maps/place/ARCO/@37.7450218,-122.1956676,17z/data=!3m1!4b1!4m5!3m4!1s0x808f859536fabd4d:0x8cbb068757e739e2!8m2!3d37.7450218!4d-122.1956676?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:33.569Z",
+  "reviewsCount": 342,
+  "reviewsDistribution": {
+    "oneStar": 17,
+    "twoStar": 19,
+    "threeStar": 71,
+    "fourStar": 77,
+    "fiveStar": 158
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.06",
+      "updatedAt": "2022-10-29T09:27:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.06,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.26",
+      "updatedAt": "2022-10-29T09:27:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.26,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$5.46",
+      "updatedAt": "2022-10-29T09:27:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.46,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Chevron Station Oakland",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "451 Hegenberger Rd, Oakland, CA 94621, United States",
+  "locatedIn": null,
+  "neighborhood": "451 Hegenberger Rd",
+  "street": "451 Hegenberger Rd",
+  "city": "Oakland",
+  "postalCode": "94621",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PRQ3+23 Oakland, California, USA",
+  "website": "http://www.chevronwithtechron.com/stations/station-finder.aspx",
+  "phone": "+1 510-633-0685",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7375609,
+    "lng": -122.1972588
+  },
+  "permanentlyClosed": false,
+  "totalScore": 1.8,
+  "isAdvertisement": false,
+  "rank": 23,
+  "placeId": "ChIJSR_o05eFj4ARNKJbTuEBWQE",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "97110934159073844",
+  "url": "https://www.google.com/maps/place/Chevron+Station+Oakland/@37.7375609,-122.1972588,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8597d3e81f49:0x15901e14e5ba234!8m2!3d37.7375609!4d-122.1972588?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:41.807Z",
+  "reviewsCount": 25,
+  "reviewsDistribution": {
+    "oneStar": 18,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 0,
+    "fiveStar": 3
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.06",
+      "updatedAt": "2022-10-29T09:23:06.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.06,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.09",
+      "updatedAt": "2022-10-28T22:29:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.09,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.76",
+      "updatedAt": "2022-10-28T08:26:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.76,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Clean Energy CNG Gas Station",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "209 Brush St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "209 Brush St",
+  "street": "209 Brush St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPX8+PJ Oakland, California, USA",
+  "website": "https://investors.cleanenergyfuels.com/news-releases/news-release-details/newest-oakland-area-clean-energy-public-access-cng-fueling",
+  "phone": "+1 888-732-6487",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.799253,
+    "lng": -122.2834809
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 22,
+  "placeId": "ChIJmRK52Q6Bj4ARIZISoZpImX4",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9122402349180162593",
+  "url": "https://www.google.com/maps/place/Clean+Energy+CNG+Gas+Station/@37.799253,-122.2834809,17z/data=!3m1!4b1!4m5!3m4!1s0x808f810ed9b91299:0x7e99489aa1129221!8m2!3d37.799235!4d-122.2834354?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:49.171Z",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 1,
+    "fourStar": 2,
+    "fiveStar": 1
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3500 Lakeshore Ave, Oakland, CA 94610, United States",
+  "locatedIn": null,
+  "neighborhood": "3500 Lakeshore Ave",
+  "street": "3500 Lakeshore Ave",
+  "city": "Oakland",
+  "postalCode": "94610",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RQ65+H8 Oakland, California, USA",
+  "website": "http://chevron.com/",
+  "phone": "+1 510-465-1761",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8114834,
+    "lng": -122.2416585
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.5,
+  "isAdvertisement": false,
+  "rank": 21,
+  "placeId": "ChIJTyvXFmqHj4AR7SQy-I-qIoA",
+  "categories": [
+    "Gas station",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "9233129721384019181",
+  "url": "https://www.google.com/maps/place/Chevron/@37.8114834,-122.2416585,17z/data=!3m1!4b1!4m5!3m4!1s0x808f876a16d72b4f:0x8022aa8ff83224ed!8m2!3d37.8114834!4d-122.2416585?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:33:57.175Z",
+  "reviewsCount": 16,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 5,
+    "fiveStar": 6
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.98",
+      "updatedAt": "2022-10-28T16:34:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.98,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.48",
+      "updatedAt": "2022-10-20T16:51:22.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.48,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.50",
+      "updatedAt": "2022-10-28T10:45:49.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.5,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "820 Portwood Ave, Oakland, CA 94601, United States",
+  "locatedIn": null,
+  "neighborhood": "820 Portwood Ave",
+  "street": "820 Portwood Ave",
+  "city": "Oakland",
+  "postalCode": "94601",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQG8+5J Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008100-820-portwood-ave",
+  "phone": "+1 510-532-0326",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7754924,
+    "lng": -122.2334274
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.6,
+  "isAdvertisement": false,
+  "rank": 19,
+  "placeId": "ChIJXyBkye2Gj4ARDuuKG45rtos",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash"
+  ],
+  "cid": "10067352275124939534",
+  "url": "https://www.google.com/maps/place/Shell/@37.7754924,-122.2334274,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86edc964205f:0x8bb66b8e1b8aeb0e!8m2!3d37.7755314!4d-122.2335271?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:05.271Z",
+  "reviewsCount": 28,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 5,
+    "fiveStar": 13
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T19:23:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-26T12:09:50.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.40",
+      "updatedAt": "2022-10-28T14:25:24.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "105 5th St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "105 5th St",
+  "street": "105 5th St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPVM+W4 Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008103-105-5th-st",
+  "phone": "+1 510-839-0784",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.794802,
+    "lng": -122.2672342
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.6,
+  "isAdvertisement": false,
+  "rank": 18,
+  "placeId": "ChIJwbvdncyAj4ARCTY3wKhSH08",
+  "categories": [
+    "Gas station",
+    "ATM"
+  ],
+  "cid": "5701366538007164425",
+  "url": "https://www.google.com/maps/place/Shell/@37.794802,-122.2672342,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80cc9dddbbc1:0x4f1f52a8c0373609!8m2!3d37.794802!4d-122.2672342?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:13.643Z",
+  "reviewsCount": 45,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 5,
+    "threeStar": 7,
+    "fourStar": 8,
+    "fiveStar": 19
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.70",
+      "updatedAt": "2022-10-29T07:54:20.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$5.90",
+      "updatedAt": "2022-10-28T14:08:22.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.11",
+      "updatedAt": "2022-10-28T17:34:38.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.11,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.60",
+      "updatedAt": "2022-10-28T14:08:22.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.6,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Safeway Fuel Station",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "501 Willie Stargell Ave, Alameda, CA 94501, United States",
+  "locatedIn": "Safeway",
+  "neighborhood": "501 Willie Stargell Ave",
+  "street": "501 Willie Stargell Ave",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPMC+WQ Alameda, California, USA",
+  "website": "https://local.fuel.safeway.com/safeway/ca/alameda/501-willie-stargell-ave.html",
+  "phone": "+1 510-523-1804",
+  "temporarilyClosed": true,
+  "location": {
+    "lat": 37.7847767,
+    "lng": -122.2780412
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.4,
+  "isAdvertisement": false,
+  "rank": 17,
+  "placeId": "ChIJN80zN9uAj4AR1TjQ89if-Vo",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "6555446486766729429",
+  "url": "https://www.google.com/maps/place/Safeway+Fuel+Station/@37.7847767,-122.2780412,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80db3733cd37:0x5af99fd8f3d038d5!8m2!3d37.7847767!4d-122.2780412?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:21.506Z",
+  "reviewsCount": 22,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 1,
+    "fourStar": 4,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1700 Castro St, Oakland, CA 94612, United States",
+  "locatedIn": null,
+  "neighborhood": "1700 Castro St",
+  "street": "1700 Castro St",
+  "city": "Oakland",
+  "postalCode": "94612",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP5F+HR Oakland, California, USA",
+  "website": "http://chevron.com/",
+  "phone": "+1 510-763-4660",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8088841,
+    "lng": -122.2754322
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.4,
+  "isAdvertisement": false,
+  "rank": 16,
+  "placeId": "ChIJd8eenq-Aj4AR1Ey_QnOC3SY",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump"
+  ],
+  "cid": "2800537974846999764",
+  "url": "https://www.google.com/maps/place/Chevron/@37.8088841,-122.2754322,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80af9e9ec777:0x26dd827342bf4cd4!8m2!3d37.8088841!4d-122.2754322?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:29.780Z",
+  "reviewsCount": 35,
+  "reviewsDistribution": {
+    "oneStar": 20,
+    "twoStar": 2,
+    "threeStar": 1,
+    "fourStar": 3,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.90",
+      "updatedAt": "2022-10-29T09:02:05.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.06",
+      "updatedAt": "2022-10-28T10:11:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.06,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-29T07:13:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.70",
+      "updatedAt": "2022-10-29T07:41:51.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "610 Market St, Oakland, CA 94607, United States",
+  "locatedIn": null,
+  "neighborhood": "610 Market St",
+  "street": "610 Market St",
+  "city": "Oakland",
+  "postalCode": "94607",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "RP28+WX Oakland, California, USA",
+  "website": "https://find.shell.com/us/fuel/10008096-610-market-st",
+  "phone": "+1 510-465-4961",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.8023505,
+    "lng": -122.282551
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.9,
+  "isAdvertisement": false,
+  "rank": 15,
+  "placeId": "ChIJ8xaDhbyAj4ARLJdzjgPGOIs",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash"
+  ],
+  "cid": "10031985888544921388",
+  "url": "https://www.google.com/maps/place/Shell/@37.8023505,-122.282551,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80bc858316f3:0x8b38c6038e73972c!8m2!3d37.8023505!4d-122.282551?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:37.784Z",
+  "reviewsCount": 34,
+  "reviewsDistribution": {
+    "oneStar": 15,
+    "twoStar": 1,
+    "threeStar": 3,
+    "fourStar": 4,
+    "fiveStar": 11
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "US$5.80",
+      "updatedAt": "2022-10-29T07:12:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "US$6.00",
+      "updatedAt": "2022-10-28T19:58:19.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "US$6.20",
+      "updatedAt": "2022-10-28T14:42:55.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.2,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "US$6.70",
+      "updatedAt": "2022-10-29T04:33:15.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Safeway",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Supermarket",
+  "address": "501 Willie Stargell Ave, Alameda, CA 94501, United States",
+  "locatedIn": "Alameda Landing",
+  "neighborhood": "501 Willie Stargell Ave",
+  "street": "501 Willie Stargell Ave",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPPC+53 Alameda, California, USA",
+  "website": "http://local.safeway.com/ca/alameda-3281.html",
+  "phone": "+1 510-523-1827",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7854271,
+    "lng": -122.2798271
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 14,
+  "placeId": "ChIJCZXAjdqAj4ARd967FhJ5YUs",
+  "categories": [
+    "Gas station",
+    "Supermarket",
+    "Wine store"
+  ],
+  "cid": "5431755744183311991",
+  "url": "https://www.google.com/maps/place/Safeway/@37.7854271,-122.2798271,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80da8dc09509:0x4b61791216bbde77!8m2!3d37.7854271!4d-122.2798271?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:44.948Z",
+  "reviewsCount": 116,
+  "reviewsDistribution": {
+    "oneStar": 8,
+    "twoStar": 2,
+    "threeStar": 13,
+    "fourStar": 41,
+    "fiveStar": 52
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "ampm",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "1260 Park St, Alameda, CA 94501",
+  "locatedIn": "ARCO",
+  "neighborhood": "1260 Park St",
+  "street": "1260 Park St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ64+R9 Alameda, California",
+  "website": "https://www.ampm.com/",
+  "phone": "(510) 522-5100",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7620681,
+    "lng": -122.2441183
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.5,
+  "isAdvertisement": false,
+  "rank": 13,
+  "placeId": "ChIJrxPYvb2Gj4ARZ1up5hCB5qU",
+  "categories": [
+    "Convenience store",
+    "ATM",
+    "Tobacco shop"
+  ],
+  "cid": "11954384170490878823",
+  "url": "https://www.google.com/maps/place/ampm/@37.7620681,-122.2441183,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86bdbdd813af:0xa5e68110e6a95b67!8m2!3d37.7620681!4d-122.2441183?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:34:55.199Z",
+  "reviewsCount": 13,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 1,
+    "threeStar": 1,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Diesel Fuel Filtering",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2433 Mariner Square Loop, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "2433 Mariner Square Loop",
+  "street": "2433 Mariner Square Loop",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPQF+C3 Alameda, California",
+  "website": null,
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7885289,
+    "lng": -122.2772558
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 12,
+  "placeId": "ChIJN0IFZMWAj4ARAxo-uKGNUa0",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "12488918967395424771",
+  "url": "https://www.google.com/maps/place/Diesel+Fuel+Filtering/@37.7885289,-122.2772558,17z/data=!3m1!4b1!4m5!3m4!1s0x808f80c564054237:0xad518da1b83e1a03!8m2!3d37.7885159!4d-122.2772625?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:03.870Z",
+  "reviewsCount": 1,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 0
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Aisle 1",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2681 Blanding Ave, Alameda, CA 94501",
+  "locatedIn": "Bridgeside Shopping Center",
+  "neighborhood": "2681 Blanding Ave",
+  "street": "2681 Blanding Ave",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ98+8Q Alameda, California",
+  "website": "https://www.raleys.com/something-extra/pump-rewards/aisle-1-locations/",
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7682683,
+    "lng": -122.2330322
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.2,
+  "isAdvertisement": false,
+  "rank": 11,
+  "placeId": "ChIJKXuaO5KGj4ARDUmeIDSrX1k",
+  "categories": [
+    "Gas station",
+    "Convenience store"
+  ],
+  "cid": "6440054232536992013",
+  "url": "https://www.google.com/maps/place/Aisle+1/@37.7682683,-122.2330322,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86923b9a7b29:0x595fab34209e490d!8m2!3d37.768302!4d-122.2330967?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:11.420Z",
+  "reviewsCount": 18,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 3,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 4
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "ubereats.com",
+      "url": "https://www.ubereats.com/store/aisle-1-2681-blanding-avenue/DcocWd_DRFO4iBuccholCQ/?utm_campaign=place-action-link-grocohol&diningMode=PICKUP&utm_medium=organic&utm_source=google"
+    },
+    {
+      "name": "postmates.com",
+      "url": "https://www.postmates.com/store/aisle-1-2681-blanding-avenue/DcocWd_DRFO4iBuccholCQ/?utm_campaign=place-action-link-grocohol&diningMode=PICKUP&utm_medium=organic&utm_source=google"
+    }
+  ],
+  "gasPrices": [
+    {
+      "priceTag": "$5.30",
+      "updatedAt": "2022-10-28T19:05:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.44",
+      "updatedAt": "2022-10-28T19:05:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.44,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.58",
+      "updatedAt": "2022-10-28T19:05:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.58,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.26",
+      "updatedAt": "2022-10-28T19:05:25.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.26,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Circle K",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "1716 Webster St, Alameda, CA 94501",
+  "locatedIn": "76",
+  "neighborhood": "1716 Webster St",
+  "street": "1716 Webster St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPGF+P9 Alameda, California",
+  "website": "https://www.circlek.com/store-locator/US/alameda/1716-webster-st/2655620?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "phone": "(510) 865-1492",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7768515,
+    "lng": -122.2765174
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 10,
+  "placeId": "ChIJH8XPCyiBj4ARv7HsoYaWTJA",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Coffee shop",
+    "Diesel fuel supplier",
+    "Convenience store",
+    "Public bathroom",
+    "Snack bar",
+    "Soft drinks shop"
+  ],
+  "cid": "10397851144678060479",
+  "url": "https://www.google.com/maps/place/Circle+K/@37.7768515,-122.2765174,17z/data=!3m1!4b1!4m5!3m4!1s0x808f81280bcfc51f:0x904c9686a1ecb1bf!8m2!3d37.7768256!4d-122.2765182?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:19.387Z",
+  "reviewsCount": 7,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Mobil",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1310 Central Ave, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "1310 Central Ave",
+  "street": "1310 Central Ave",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPCP+9R Alameda, California",
+  "website": "https://www.exxon.com/en/find-station/mobil-alameda-ca-alamedafuelmart-200322670",
+  "phone": "(510) 523-8044",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7708974,
+    "lng": -122.2629375
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 9,
+  "placeId": "ChIJ23OvDs2Gj4ARw9TxFSleNq8",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "12625382135934604483",
+  "url": "https://www.google.com/maps/place/Mobil/@37.7708974,-122.2629375,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86cd0eaf73db:0xaf365e2915f1d4c3!8m2!3d37.7708974!4d-122.2629375?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:27.198Z",
+  "reviewsCount": 51,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 0,
+    "threeStar": 3,
+    "fourStar": 13,
+    "fiveStar": 31
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.89",
+      "updatedAt": "2022-10-29T08:30:35.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.89,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.10",
+      "updatedAt": "2022-10-28T22:28:42.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.30",
+      "updatedAt": "2022-10-28T22:28:42.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.80",
+      "updatedAt": "2022-10-28T13:09:44.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.8,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3255 Mecartney Rd, Alameda, CA 94502",
+  "locatedIn": "Harbor Bay Landing LLC",
+  "neighborhood": "3255 Mecartney Rd",
+  "street": "3255 Mecartney Rd",
+  "city": "Alameda",
+  "postalCode": "94502",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "PQP5+GP Alameda, California",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "(510) 523-7408",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7363068,
+    "lng": -122.2406835
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.6,
+  "isAdvertisement": false,
+  "rank": 8,
+  "placeId": "ChIJ0amcdz6Ej4ARjpyfRLJTZmI",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "7090446688462019726",
+  "url": "https://www.google.com/maps/place/76/@37.7363068,-122.2406835,17z/data=!3m1!4b1!4m5!3m4!1s0x808f843e779ca9d1:0x626653b2449f9c8e!8m2!3d37.7363068!4d-122.2406835?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:35.115Z",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 1,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.30",
+      "updatedAt": "2022-10-28T08:47:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.60",
+      "updatedAt": "2022-10-27T06:15:00.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.6,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.70",
+      "updatedAt": "2022-10-28T14:33:52.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1701 Park St, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "1701 Park St",
+  "street": "1701 Park St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QQ96+94 Alameda, California",
+  "website": "http://chevron.com/",
+  "phone": "(510) 521-1665",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7684797,
+    "lng": -122.2396908
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 7,
+  "placeId": "ChIJQ3u345SGj4ARBtR5s5IR8Tk",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Diesel fuel supplier",
+    "Fuel pump"
+  ],
+  "cid": "4175137651323163654",
+  "url": "https://www.google.com/maps/place/Chevron/@37.7684797,-122.2396908,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8694e3b77b43:0x39f11192b379d406!8m2!3d37.7684797!4d-122.2396908?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:44.091Z",
+  "reviewsCount": 140,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 3,
+    "threeStar": 10,
+    "fourStar": 31,
+    "fiveStar": 91
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "doordash.com",
+      "url": "https://www.doordash.com/store/chevron-extramile-alameda-1892315/?utm_campaign=gpa"
+    }
+  ],
+  "gasPrices": [
+    {
+      "priceTag": "$5.50",
+      "updatedAt": "2022-10-29T08:19:56.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.70",
+      "updatedAt": "2022-10-29T01:23:45.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.80",
+      "updatedAt": "2022-10-29T01:23:45.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.40",
+      "updatedAt": "2022-10-29T03:22:32.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1716 Webster St, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "1716 Webster St",
+  "street": "1716 Webster St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPGF+RF Alameda, California",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "(510) 227-6560",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7770426,
+    "lng": -122.2763601
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 6,
+  "placeId": "ChIJFf0ODCiBj4ARQ2Lxb67xpxs",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "1992827091639427651",
+  "url": "https://www.google.com/maps/place/76/@37.7770426,-122.2763601,17z/data=!3m1!4b1!4m5!3m4!1s0x808f81280c0efd15:0x1ba7f1ae6ff16243!8m2!3d37.7770426!4d-122.2763601?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:35:52.276Z",
+  "reviewsCount": 143,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 5,
+    "threeStar": 21,
+    "fourStar": 36,
+    "fiveStar": 70
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.70",
+      "updatedAt": "2022-10-29T06:41:00.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.90",
+      "updatedAt": "2022-10-28T15:58:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-28T03:53:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Safeway Fuel Station",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2234 Otis Dr, Alameda, CA 94501",
+  "locatedIn": "Safeway",
+  "neighborhood": "2234 Otis Dr",
+  "street": "2234 Otis Dr",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QP5X+FM Alameda, California",
+  "website": "https://local.fuel.safeway.com/safeway/ca/alameda/2234-otis-dr.html",
+  "phone": "(510) 863-9000",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7586816,
+    "lng": -122.250841
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 5,
+  "placeId": "ChIJxeIsA7uGj4ARZdXn_KuRJuc",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "16656160439744845157",
+  "url": "https://www.google.com/maps/place/Safeway+Fuel+Station/@37.7586816,-122.250841,17z/data=!3m1!4b1!4m5!3m4!1s0x808f86bb032ce2c5:0xe72691abfce7d565!8m2!3d37.7586816!4d-122.250841?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:36:00.436Z",
+  "reviewsCount": 89,
+  "reviewsDistribution": {
+    "oneStar": 11,
+    "twoStar": 4,
+    "threeStar": 9,
+    "fourStar": 31,
+    "fiveStar": 34
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.14",
+      "updatedAt": "2022-10-29T08:25:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.14,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.28",
+      "updatedAt": "2022-10-29T08:25:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.28,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.42",
+      "updatedAt": "2022-10-29T08:25:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.42,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.36",
+      "updatedAt": "2022-10-29T08:25:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.36,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1601 Webster St, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "1601 Webster St",
+  "street": "1601 Webster St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPGF+66 Alameda, California",
+  "website": "https://find.shell.com/us/fuel/10007774-1601-webster-st",
+  "phone": "(510) 523-0191",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7755561,
+    "lng": -122.2769553
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.3,
+  "isAdvertisement": false,
+  "rank": 2,
+  "placeId": "ChIJN2wqgCiBj4AR5ENZZQMfE4k",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "9877272507199341540",
+  "url": "https://www.google.com/maps/place/Shell/@37.7755561,-122.2769553,17z/data=!3m1!4b1!4m5!3m4!1s0x808f8128802a6c37:0x89131f03655943e4!8m2!3d37.7755561!4d-122.2769553?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:36:08.112Z",
+  "reviewsCount": 65,
+  "reviewsDistribution": {
+    "oneStar": 37,
+    "twoStar": 3,
+    "threeStar": 5,
+    "fourStar": 6,
+    "fiveStar": 14
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.90",
+      "updatedAt": "2022-10-28T14:17:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.10",
+      "updatedAt": "2022-10-28T14:17:37.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.30",
+      "updatedAt": "2022-10-29T07:15:45.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.50",
+      "updatedAt": "2022-10-24T11:25:59.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.5,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1802 Webster St, Alameda, CA 94501",
+  "locatedIn": null,
+  "neighborhood": "1802 Webster St",
+  "street": "1802 Webster St",
+  "city": "Alameda",
+  "postalCode": "94501",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "QPHF+2C Alameda, California",
+  "website": "https://www.chevron.com/",
+  "phone": "(925) 842-1000",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7776152,
+    "lng": -122.2764484
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.3,
+  "isAdvertisement": false,
+  "rank": 1,
+  "placeId": "ChIJ4ya3ByiBj4ARNIF45ePjMVA",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "5778650364840018228",
+  "url": "https://www.google.com/maps/place/Chevron/@37.7776152,-122.2764484,17z/data=!3m1!4b1!4m5!3m4!1s0x808f812807b726e3:0x5031e3e3e5788134!8m2!3d37.7776152!4d-122.2764484?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Alameda/@37.7705414,-122.2631943,13z?hl=en",
+  "searchString": "gas station in Alameda",
+  "scrapedAt": "2022-10-29T23:36:16.376Z",
+  "reviewsCount": 11,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 8
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-23T19:20:42.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.16",
+      "updatedAt": "2022-10-23T05:38:22.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.16,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.30",
+      "updatedAt": "2022-10-23T05:38:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Premium"
+    }
+  ]
+}]

@@ -1,0 +1,1424 @@
+[{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3790 Hopyard Rd, Pleasanton, CA 94588",
+  "locatedIn": null,
+  "neighborhood": "3790 Hopyard Rd",
+  "street": "3790 Hopyard Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M3JW+G7 Pleasanton, California",
+  "website": "https://find.shell.com/us/fuel/10008153-3790-hopyard-rd",
+  "phone": "(925) 846-3223",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6812915,
+    "lng": -121.9043133
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.5,
+  "isAdvertisement": false,
+  "rank": 8,
+  "placeId": "ChIJmYUWYuDrj4AR0dlwCXgrJ2M",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Convenience store"
+  ],
+  "cid": "7144727128401041873",
+  "url": "https://www.google.com/maps/place/Shell/@37.6812915,-121.9043133,17z/data=!3m1!4b1!4m5!3m4!1s0x808febe062168599:0x63272b780970d9d1!8m2!3d37.6812202!4d-121.9043047?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:12.971Z",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 4,
+    "twoStar": 1,
+    "threeStar": 2,
+    "fourStar": 3,
+    "fiveStar": 7
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "4191 First St, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "4191 First St",
+  "street": "4191 First St",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M47J+92 Pleasanton, California",
+  "website": "https://www.76.com/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+  "phone": "(510) 759-2384",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6634971,
+    "lng": -121.8699814
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.1,
+  "isAdvertisement": false,
+  "rank": 9,
+  "placeId": "ChIJYUcQGaXpj4AROHShpfNgHdw",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "15860940062240896056",
+  "url": "https://www.google.com/maps/place/76/@37.6634971,-121.8699814,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9a519104761:0xdc1d60f3a5a17438!8m2!3d37.6634971!4d-121.8699814?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:14.994Z",
+  "reviewsCount": 64,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 4,
+    "threeStar": 7,
+    "fourStar": 24,
+    "fiveStar": 27
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.70",
+      "updatedAt": "2022-10-25T10:48:26.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.90",
+      "updatedAt": "2022-10-25T10:48:26.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.9,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-25T10:48:26.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$7.00",
+      "updatedAt": "2022-10-28T13:07:38.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "4895 Hacienda Dr, Dublin, CA 94568",
+  "locatedIn": "Hacienda Crossings Shopping Center",
+  "neighborhood": "4895 Hacienda Dr",
+  "street": "4895 Hacienda Dr",
+  "city": "Dublin",
+  "postalCode": "94568",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "P436+XX Dublin, California",
+  "website": "https://find.shell.com/us/fuel/10013516-4895-hacienda-dr",
+  "phone": "(925) 875-9970",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7049102,
+    "lng": -121.8875224
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 20,
+  "placeId": "ChIJz_MHK7Puj4ARapcJ0TrxXuc",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "16672028105489618794",
+  "url": "https://www.google.com/maps/place/Shell/@37.7049102,-121.8875224,17z/data=!3m1!4b1!4m5!3m4!1s0x808feeb32b07f3cf:0xe75ef13ad109976a!8m2!3d37.7049102!4d-121.8875224?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:27.659Z",
+  "reviewsCount": 68,
+  "reviewsDistribution": {
+    "oneStar": 10,
+    "twoStar": 4,
+    "threeStar": 6,
+    "fourStar": 15,
+    "fiveStar": 33
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.40",
+      "updatedAt": "2022-10-29T09:23:36.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.66",
+      "updatedAt": "2022-10-28T09:48:02.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.66,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.70",
+      "updatedAt": "2022-10-29T07:39:34.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "ARCO",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "7249 Village Pkwy, Dublin, CA 94568",
+  "locatedIn": null,
+  "neighborhood": "7249 Village Pkwy",
+  "street": "7249 Village Pkwy",
+  "city": "Dublin",
+  "postalCode": "94568",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "P36F+68 Dublin, California",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "(925) 828-3163",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7105861,
+    "lng": -121.9266805
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4,
+  "isAdvertisement": false,
+  "rank": 19,
+  "placeId": "ChIJkZ5BOPHtj4ARpRIihVgARGc",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "7441072864513626789",
+  "url": "https://www.google.com/maps/place/ARCO/@37.7105861,-121.9266805,17z/data=!3m1!4b1!4m5!3m4!1s0x808fedf138419e91:0x67440058852212a5!8m2!3d37.7106425!4d-121.9267088?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:31.283Z",
+  "reviewsCount": 135,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 7,
+    "threeStar": 21,
+    "fourStar": 46,
+    "fiveStar": 55
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.30",
+      "updatedAt": "2022-10-28T14:41:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.50",
+      "updatedAt": "2022-10-27T16:44:14.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.70",
+      "updatedAt": "2022-10-27T08:58:56.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.7,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Safeway Fuel Station",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "7497 Dublin Blvd, Dublin, CA 94568",
+  "locatedIn": "Safeway",
+  "neighborhood": "7497 Dublin Blvd",
+  "street": "7497 Dublin Blvd",
+  "city": "Dublin",
+  "postalCode": "94568",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "P34F+6C Dublin, California",
+  "website": "https://local.fuel.safeway.com/safeway/ca/dublin/7497-dublin-blvd.html",
+  "phone": "(925) 556-4034",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.7055061,
+    "lng": -121.9264354
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "isAdvertisement": false,
+  "rank": 21,
+  "placeId": "ChIJn2d972zsj4ARE0kZfCwYZSU",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "2694586531390769427",
+  "url": "https://www.google.com/maps/place/Safeway+Fuel+Station/@37.7055061,-121.9264354,17z/data=!3m1!4b1!4m5!3m4!1s0x808fec6cef7d679f:0x2565182c7c194913!8m2!3d37.7055061!4d-121.9264354?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z/data=!4m2!2m1!6e2?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:32.783Z",
+  "reviewsCount": 178,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 2,
+    "threeStar": 20,
+    "fourStar": 54,
+    "fiveStar": 100
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "ampm",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "3121 Bernal Ave, Pleasanton, CA 94566",
+  "locatedIn": "Arco",
+  "neighborhood": "3121 Bernal Ave",
+  "street": "3121 Bernal Ave",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M49R+JH Pleasanton, California",
+  "website": "https://www.ampm.com/",
+  "phone": "(925) 846-1083",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6690808,
+    "lng": -121.8586053
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.6,
+  "isAdvertisement": false,
+  "rank": 18,
+  "placeId": "ChIJEcV27azpj4ARVm6pfMzHE7o",
+  "categories": [
+    "Convenience store",
+    "ATM",
+    "Tobacco shop"
+  ],
+  "cid": "13408280196690832982",
+  "url": "https://www.google.com/maps/place/ampm/@37.6690808,-121.8586053,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9aced76c511:0xba13c7cc7ca96e56!8m2!3d37.6690808!4d-121.8586053?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:40.364Z",
+  "reviewsCount": 10,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 4
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "ExtraMile Convenience Stores",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "5280 Hopyard Rd, Pleasanton, CA 94588",
+  "locatedIn": "Chevron",
+  "neighborhood": "5280 Hopyard Rd",
+  "street": "5280 Hopyard Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M3XW+85 Pleasanton, California",
+  "website": "https://www.chevronextramile.com/",
+  "phone": null,
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6982528,
+    "lng": -121.9046185
+  },
+  "permanentlyClosed": false,
+  "totalScore": null,
+  "isAdvertisement": false,
+  "rank": 17,
+  "placeId": "ChIJURYxDY7rj4AR9FCwtAu4QZ4",
+  "categories": [
+    "Convenience store"
+  ],
+  "cid": "11403598091894411508",
+  "url": "https://www.google.com/maps/place/ExtraMile+Convenience+Stores/@37.6982528,-121.9046185,17z/data=!3m1!4b1!4m5!3m4!1s0x808feb8e0d311651:0x9e41b80bb4b050f4!8m2!3d37.6982299!4d-121.9046635?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:49.212Z",
+  "reviewsCount": 0,
+  "reviewsDistribution": {
+    "oneStar": 0,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 0
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Shell Car Wash",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Car wash",
+  "address": "6750 Santa Rita Rd, Pleasanton, CA 94588",
+  "locatedIn": null,
+  "neighborhood": "6750 Santa Rita Rd",
+  "street": "6750 Santa Rita Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4XH+VF Pleasanton, California",
+  "website": "https://find.shell.com/us/fuel/10008155-6750-santa-rita-rd",
+  "phone": "(925) 460-8061",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.699736,
+    "lng": -121.8712761
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.8,
+  "isAdvertisement": false,
+  "rank": 16,
+  "placeId": "ChIJLa0iswzpj4ARCNrAaK77_wY",
+  "categories": [
+    "Car wash",
+    "Gas station"
+  ],
+  "cid": "504398409789135368",
+  "url": "https://www.google.com/maps/place/Shell+Car+Wash/@37.699736,-121.8712761,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe90cb322ad2d:0x6fffbae68c0da08!8m2!3d37.6997781!4d-121.8712927?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:38:57.854Z",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 2,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 1
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1875 Valley Ave, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "1875 Valley Ave",
+  "street": "1875 Valley Ave",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M453+5C Pleasanton, California",
+  "website": "https://www.chevronwithtechron.com/station/1875-Valley-Avenue-Pleasanton-CA-94566-id358727",
+  "phone": "(925) 846-6130",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6579477,
+    "lng": -121.8964903
+  },
+  "permanentlyClosed": false,
+  "totalScore": 2.9,
+  "isAdvertisement": false,
+  "rank": 15,
+  "placeId": "ChIJR-CqpIbpj4ARxAA8x8wUgfc",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Car wash",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "17834558869112357060",
+  "url": "https://www.google.com/maps/place/Chevron/@37.6579477,-121.8964903,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe986a4aae047:0xf78114ccc73c00c4!8m2!3d37.6579477!4d-121.8964903?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:06.315Z",
+  "reviewsCount": 14,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 2,
+    "fiveStar": 3
+  },
+  "reviews": [],
+  "orderBy": [
+    {
+      "name": "doordash.com",
+      "url": "https://www.doordash.com/store/chevron-extramile-pleasanton-1095962/?utm_campaign=gpa"
+    }
+  ],
+  "gasPrices": [
+    {
+      "priceTag": "$6.66",
+      "updatedAt": "2022-10-28T19:03:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.66,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.80",
+      "updatedAt": "2022-10-28T19:03:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.90",
+      "updatedAt": "2022-10-27T15:17:05.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.9,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Circle K",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Convenience store",
+  "address": "4191 First St, Pleasanton, CA 94566",
+  "locatedIn": "76",
+  "neighborhood": "4191 First St",
+  "street": "4191 First St",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M47J+F4 Pleasanton, California",
+  "website": "https://www.circlek.com/store-locator/US/pleasanton/4191-first-st/2655643?utm_source=google&utm_medium=local&utm_campaign=google-local",
+  "phone": "(510) 759-2384",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6636959,
+    "lng": -121.8696871
+  },
+  "permanentlyClosed": false,
+  "totalScore": 1.8,
+  "isAdvertisement": false,
+  "rank": 14,
+  "placeId": "ChIJYUcQGaXpj4AR5kPK0Ztd-KY",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Coffee shop",
+    "Diesel fuel supplier",
+    "Convenience store",
+    "Public bathroom",
+    "Snack bar",
+    "Soft drinks shop"
+  ],
+  "cid": "12031469328341287910",
+  "url": "https://www.google.com/maps/place/Circle+K/@37.6636959,-121.8696871,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9a519104761:0xa6f85d9bd1ca43e6!8m2!3d37.6636721!4d-121.8697162?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:15.551Z",
+  "reviewsCount": 4,
+  "reviewsDistribution": {
+    "oneStar": 3,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 1,
+    "fiveStar": 0
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Valero",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3192 Santa Rita Rd, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "3192 Santa Rita Rd",
+  "street": "3192 Santa Rita Rd",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4RC+JQ Pleasanton, California",
+  "website": "https://ccc.valero.com/",
+  "phone": "(925) 846-5672",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6915088,
+    "lng": -121.8780078
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 13,
+  "placeId": "ChIJf8ufbT_pj4AR8peuall_dHM",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "8319414433678792690",
+  "url": "https://www.google.com/maps/place/Valero/@37.6915088,-121.8780078,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe93f6d9fcb7f:0x73747f596aae97f2!8m2!3d37.6915099!4d-121.8779752?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:23.091Z",
+  "reviewsCount": 174,
+  "reviewsDistribution": {
+    "oneStar": 13,
+    "twoStar": 6,
+    "threeStar": 37,
+    "fourStar": 43,
+    "fiveStar": 75
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.30",
+      "updatedAt": "2022-10-29T08:03:55.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.56",
+      "updatedAt": "2022-10-28T13:07:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.56,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.60",
+      "updatedAt": "2022-10-29T05:27:28.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.6,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$7.00",
+      "updatedAt": "2022-10-29T07:19:29.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "6750 Santa Rita Rd, Pleasanton, CA 94588",
+  "locatedIn": null,
+  "neighborhood": "6750 Santa Rita Rd",
+  "street": "6750 Santa Rita Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4XH+W8 Pleasanton, California",
+  "website": "https://find.shell.com/us/fuel/10008155-6750-santa-rita-rd",
+  "phone": "(925) 460-8061",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6997884,
+    "lng": -121.8716338
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.5,
+  "isAdvertisement": false,
+  "rank": 12,
+  "placeId": "ChIJg1XVdTrpj4ARdgK06AgLea0",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "12500034373635277430",
+  "url": "https://www.google.com/maps/place/Shell/@37.6997884,-121.8716338,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe93a75d55583:0xad790b08e8b40276!8m2!3d37.6997881!4d-121.8715924?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:31.265Z",
+  "reviewsCount": 32,
+  "reviewsDistribution": {
+    "oneStar": 9,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 3,
+    "fiveStar": 16
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.40",
+      "updatedAt": "2022-10-29T08:29:19.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.66",
+      "updatedAt": "2022-10-28T12:21:23.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.66,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.70",
+      "updatedAt": "2022-10-28T15:51:30.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$7.00",
+      "updatedAt": "2022-10-29T06:51:14.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1797 Santa Rita Rd, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "1797 Santa Rita Rd",
+  "street": "1797 Santa Rita Rd",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4GG+F7 Pleasanton, California",
+  "website": "https://www.chevronwithtechron.com/",
+  "phone": "(925) 846-6258",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.676188,
+    "lng": -121.8742858
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.2,
+  "isAdvertisement": false,
+  "rank": 11,
+  "placeId": "ChIJkdQ2GAzpj4ARhIWwr9encPk",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Diesel fuel supplier",
+    "Fuel pump",
+    "Gas company"
+  ],
+  "cid": "17974050657643038084",
+  "url": "https://www.google.com/maps/place/Chevron/@37.676188,-121.8742858,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe90c1836d491:0xf970a7d7afb08584!8m2!3d37.676188!4d-121.8742858?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:39.571Z",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 7,
+    "twoStar": 1,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 9
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-29T07:54:21.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.26",
+      "updatedAt": "2022-10-28T10:55:29.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.26,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.40",
+      "updatedAt": "2022-10-29T07:00:14.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "76",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "1801 Santa Rita Rd, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "1801 Santa Rita Rd",
+  "street": "1801 Santa Rita Rd",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4GG+R6 Pleasanton, California",
+  "website": "https://rocketstores.com/",
+  "phone": "(925) 485-3691",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.67712,
+    "lng": -121.87441
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.2,
+  "isAdvertisement": false,
+  "rank": 10,
+  "placeId": "ChIJHxFINwzpj4ARkvIrFoJS0VI",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Convenience store",
+    "Lottery retailer",
+    "Propane supplier"
+  ],
+  "cid": "5967641699913822866",
+  "url": "https://www.google.com/maps/place/76/@37.67712,-121.87441,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe90c3748111f:0x52d15282162bf292!8m2!3d37.67712!4d-121.87441?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:47.951Z",
+  "reviewsCount": 43,
+  "reviewsDistribution": {
+    "oneStar": 1,
+    "twoStar": 1,
+    "threeStar": 5,
+    "fourStar": 16,
+    "fiveStar": 20
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.60",
+      "updatedAt": "2022-10-29T08:23:26.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.80",
+      "updatedAt": "2022-10-28T10:53:13.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-28T10:53:13.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Valero",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "2991 Hopyard Rd, Pleasanton, CA 94588",
+  "locatedIn": null,
+  "neighborhood": "2991 Hopyard Rd",
+  "street": "2991 Hopyard Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M4G3+9C Pleasanton, California",
+  "website": "https://www.valero.com/en-us",
+  "phone": "(925) 462-5858",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6758988,
+    "lng": -121.8963963
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.7,
+  "isAdvertisement": false,
+  "rank": 7,
+  "placeId": "ChIJM6S1hmPpj4ARUG6fYBsLG0Q",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "4907528431163371088",
+  "url": "https://www.google.com/maps/place/Valero/@37.6758988,-121.8963963,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe96386b5a433:0x441b0b1b609f6e50!8m2!3d37.6758988!4d-121.8963963?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:39:56.332Z",
+  "reviewsCount": 42,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 2,
+    "threeStar": 9,
+    "fourStar": 10,
+    "fiveStar": 16
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.74",
+      "updatedAt": "2022-10-24T05:34:28.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.74,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.86",
+      "updatedAt": "2022-10-24T05:34:28.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.86,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.98",
+      "updatedAt": "2022-10-24T05:34:28.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.98,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.24",
+      "updatedAt": "2022-10-24T05:34:29.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.24,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "5251 Hopyard Rd, Pleasanton, CA 94588",
+  "locatedIn": null,
+  "neighborhood": "5251 Hopyard Rd",
+  "street": "5251 Hopyard Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M3XW+8H Pleasanton, California",
+  "website": "https://find.shell.com/us/fuel/10008154-5251-hopyard-rd",
+  "phone": "(925) 594-1058",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.698359,
+    "lng": -121.9035647
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 6,
+  "placeId": "ChIJ8W2Wo__rj4ART0VGMalH1Kg",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Car wash",
+    "Convenience store"
+  ],
+  "cid": "12165427285436286287",
+  "url": "https://www.google.com/maps/place/Shell/@37.698359,-121.9035647,17z/data=!3m1!4b1!4m5!3m4!1s0x808febffa3966df1:0xa8d447a93146454f!8m2!3d37.6983986!4d-121.903592?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:04.772Z",
+  "reviewsCount": 66,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 2,
+    "threeStar": 15,
+    "fourStar": 14,
+    "fiveStar": 30
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.40",
+      "updatedAt": "2022-10-29T04:42:47.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.4,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$6.56",
+      "updatedAt": "2022-10-28T19:09:54.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.56,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.70",
+      "updatedAt": "2022-10-29T07:00:44.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.7,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.00",
+      "updatedAt": "2022-10-28T19:27:39.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Chevron",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "5280 Hopyard Rd, Pleasanton, CA 94588",
+  "locatedIn": "Pleasanton Square Shopping Center",
+  "neighborhood": "5280 Hopyard Rd",
+  "street": "5280 Hopyard Rd",
+  "city": "Pleasanton",
+  "postalCode": "94588",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M3XW+75 Pleasanton, California",
+  "website": "https://www.chevronwithtechron.com/",
+  "phone": "(925) 463-9650",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6982352,
+    "lng": -121.9045878
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3,
+  "isAdvertisement": false,
+  "rank": 5,
+  "placeId": "ChIJu4UXoP_rj4ARmUWnJXsWOC4",
+  "categories": [
+    "Gas station",
+    "Auto repair shop",
+    "Convenience store",
+    "Fuel pump"
+  ],
+  "cid": "3330436642608989593",
+  "url": "https://www.google.com/maps/place/Chevron/@37.6982352,-121.9045878,17z/data=!3m1!4b1!4m5!3m4!1s0x808febffa01785bb:0x2e38167b25a74599!8m2!3d37.6982352!4d-121.9045878?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:13.259Z",
+  "reviewsCount": 10,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 0,
+    "fourStar": 0,
+    "fiveStar": 5
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$6.80",
+      "updatedAt": "2022-10-24T05:33:49.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.8,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.80",
+      "updatedAt": "2022-10-21T16:04:45.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.8,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Shell",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "4212 First St, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "4212 First St",
+  "street": "4212 First St",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M47J+42 Pleasanton, California",
+  "website": "https://find.shell.com/us/fuel/10008151-4212-1st-st",
+  "phone": "(925) 249-9301",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6628282,
+    "lng": -121.8699476
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.2,
+  "isAdvertisement": false,
+  "rank": 4,
+  "placeId": "ChIJv-R1L6Xpj4ARgBbLNyDtC_o",
+  "categories": [
+    "Gas station",
+    "ATM",
+    "Convenience store"
+  ],
+  "cid": "18017755456856594048",
+  "url": "https://www.google.com/maps/place/Shell/@37.6628282,-121.8699476,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9a52f75e4bf:0xfa0bed2037cb1680!8m2!3d37.6628282!4d-121.8699476?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:21.367Z",
+  "reviewsCount": 17,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 0,
+    "threeStar": 4,
+    "fourStar": 3,
+    "fiveStar": 5
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$7.26",
+      "updatedAt": "2022-10-23T11:24:43.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7.26,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$7.46",
+      "updatedAt": "2022-10-28T13:08:27.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7.46,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$7.66",
+      "updatedAt": "2022-10-28T13:24:12.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 7.66,
+      "gasType": "Premium"
+    }
+  ]
+},
+{
+  "title": "Arco",
+  "subTitle": null,
+  "price": "$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "3121 Bernal Ave, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "3121 Bernal Ave",
+  "street": "3121 Bernal Ave",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M49R+JP Pleasanton, California",
+  "website": "https://www.arco.com/en-us/northwest/",
+  "phone": "(925) 846-1083",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6691041,
+    "lng": -121.858203
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.8,
+  "isAdvertisement": false,
+  "rank": 3,
+  "placeId": "ChIJJQrkkazpj4ARKRZsKCF6fZ0",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "11348360918874199593",
+  "url": "https://www.google.com/maps/place/Arco/@37.6691041,-121.858203,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9ac91e40a25:0x9d7d7a21286c1629!8m2!3d37.6691007!4d-121.8582245?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:29.548Z",
+  "reviewsCount": 46,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 7,
+    "fourStar": 9,
+    "fiveStar": 21
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.80",
+      "updatedAt": "2022-10-29T04:19:12.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.8,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.96",
+      "updatedAt": "2022-10-28T12:40:35.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.96,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$6.10",
+      "updatedAt": "2022-10-27T16:41:03.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.1,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$6.90",
+      "updatedAt": "2022-10-27T06:34:35.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 6.9,
+      "gasType": "Diesel"
+    }
+  ]
+},
+{
+  "title": "Safeway Fuel Station",
+  "subTitle": null,
+  "price": "$$",
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "6782 Bernal Ave, Pleasanton, CA 94566",
+  "locatedIn": "Safeway",
+  "neighborhood": "6782 Bernal Ave",
+  "street": "6782 Bernal Ave",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M442+P4 Pleasanton, California",
+  "website": "https://local.fuel.safeway.com/safeway/ca/pleasanton/6782-bernal-ave.html",
+  "phone": "(925) 846-8644",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.65687,
+    "lng": -121.8996486
+  },
+  "permanentlyClosed": false,
+  "totalScore": 3.9,
+  "isAdvertisement": false,
+  "rank": 2,
+  "placeId": "ChIJl_4oI4fpj4AR5HljSZK2BiU",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "2668020568676334052",
+  "url": "https://www.google.com/maps/place/Safeway+Fuel+Station/@37.65687,-121.8996486,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9872328fe97:0x2506b692496379e4!8m2!3d37.65687!4d-121.8996486?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:37.761Z",
+  "reviewsCount": 57,
+  "reviewsDistribution": {
+    "oneStar": 6,
+    "twoStar": 3,
+    "threeStar": 6,
+    "fourStar": 16,
+    "fiveStar": 26
+  },
+  "reviews": [],
+  "orderBy": []
+},
+{
+  "title": "Pleasanton Gas Station",
+  "subTitle": null,
+  "price": null,
+  "menu": null,
+  "categoryName": "Gas station",
+  "address": "707 Main St, Pleasanton, CA 94566",
+  "locatedIn": null,
+  "neighborhood": "707 Main St",
+  "street": "707 Main St",
+  "city": "Pleasanton",
+  "postalCode": "94566",
+  "state": "California",
+  "countryCode": "US",
+  "plusCode": "M47F+4X Pleasanton, California",
+  "website": null,
+  "phone": "(925) 846-0434",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 37.6627695,
+    "lng": -121.8750632
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.2,
+  "isAdvertisement": false,
+  "rank": 1,
+  "placeId": "ChIJT8lIC6Ppj4AR1kufDgwjdSo",
+  "categories": [
+    "Gas station"
+  ],
+  "cid": "3059390056560020438",
+  "url": "https://www.google.com/maps/place/Pleasanton+Gas+Station/@37.6627695,-121.8750632,17z/data=!3m1!4b1!4m5!3m4!1s0x808fe9a30b48c94f:0x2a75230c0e9f4bd6!8m2!3d37.6627695!4d-121.8750632?hl=en",
+  "searchPageUrl": "https://www.google.com/maps/search/gas+station+in+Pleasanton/@37.6837281,-121.8924417,13z?hl=en",
+  "searchString": "gas station in Pleasanton",
+  "scrapedAt": "2022-10-29T23:40:46.265Z",
+  "reviewsCount": 74,
+  "reviewsDistribution": {
+    "oneStar": 5,
+    "twoStar": 1,
+    "threeStar": 9,
+    "fourStar": 16,
+    "fiveStar": 43
+  },
+  "reviews": [],
+  "orderBy": [],
+  "gasPrices": [
+    {
+      "priceTag": "$5.30",
+      "updatedAt": "2022-10-29T08:50:31.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.3,
+      "gasType": "Regular"
+    },
+    {
+      "priceTag": "$5.50",
+      "updatedAt": "2022-10-29T08:50:51.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.5,
+      "gasType": "Midgrade"
+    },
+    {
+      "priceTag": "$5.60",
+      "updatedAt": "2022-10-29T08:50:51.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.6,
+      "gasType": "Premium"
+    },
+    {
+      "priceTag": "$5.99",
+      "updatedAt": "2022-10-29T08:50:51.000Z",
+      "unit": "gallon",
+      "currency": "USD",
+      "price": 5.99,
+      "gasType": "Diesel"
+    }
+  ]
+}]
